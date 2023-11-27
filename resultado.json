@@ -1,0 +1,1787 @@
+[
+  {
+    "id": 1,
+    "ean": "76150202199",
+    "short_name": "Popcorn Mantequilla",
+    "long_name": "Cabritas Act Ii Light Mantequilla 85 G",
+    "content": {
+      "content_detail": 85,
+      "measure_unit": "g."
+    },
+    "brand": "ACT11",
+    "first_category": "COCKTAIL",
+    "second_category": "SNACKS",
+    "proxy_duration": "Media",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 2,
+    "ean": "76150230383",
+    "short_name": "Popcorn Caramelo",
+    "long_name": "Cabritas Act Ii Caramelo 161 G",
+    "content": {
+      "content_detail": 161,
+      "measure_unit": "g."
+    },
+    "brand": "ACT11",
+    "first_category": "COCKTAIL",
+    "second_category": "SNACKS",
+    "proxy_duration": "Media",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 3,
+    "ean": "7804515004934",
+    "short_name": "MIx goji & friends",
+    "long_name": "Mezcla Goji 100gr",
+    "content": {
+      "content_detail": 0,
+      "measure_unit": "un."
+    },
+    "brand": "ALTO LA CRUZ",
+    "first_category": "FRUTAS Y VERDURAS",
+    "second_category": "FRUTAS SECAS/DESH",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Frutas"
+  },
+  {
+    "id": 4,
+    "ean": "7804658020396",
+    "short_name": "Jugo Variedades 200cc",
+    "long_name": "Jugo Ama Manzana Durazno OrgáNico 200cc",
+    "content": {
+      "content_detail": 200,
+      "measure_unit": "ml."
+    },
+    "brand": "AMA",
+    "first_category": "BOTILLERÍA/GASEOSAS",
+    "second_category": "NECTAR Y JUGOS LIQ",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 5,
+    "ean": "7702174083669",
+    "short_name": "Gusanos Acidos",
+    "long_name": "Gusanos Acidos 30 X 90 Gr",
+    "content": {
+      "content_detail": 90,
+      "measure_unit": "g."
+    },
+    "brand": "COSTA",
+    "first_category": "GALLETAS Y GOLOSINAS",
+    "second_category": "GOLOSINAS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 6,
+    "ean": "7802200361089",
+    "short_name": "Gelatina Frutilla",
+    "long_name": "Gelatina En Polvo Ambrosoli Naranja 100g",
+    "content": {
+      "content_detail": 100,
+      "measure_unit": "g."
+    },
+    "brand": "AMBROSOLI",
+    "first_category": "ALMACEN",
+    "second_category": "POSTRES",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 7,
+    "ean": "7802200361119",
+    "short_name": "Gelatina Naranja",
+    "long_name": "Gelatina En Polvo Ambrosoli Frutilla100g",
+    "content": {
+      "content_detail": 100,
+      "measure_unit": "g."
+    },
+    "brand": "AMBROSOLI",
+    "first_category": "ALMACEN",
+    "second_category": "POSTRES",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 8,
+    "ean": "7802820700299",
+    "short_name": "Jugo Piña Sin azúcar 200ml",
+    "long_name": "Nectar Andina Frut PiñA 200cc",
+    "content": {
+      "content_detail": 200,
+      "measure_unit": "ml."
+    },
+    "brand": "ANDINA",
+    "first_category": "BOTILLERÍA/GASEOSAS",
+    "second_category": "NECTAR Y JUGOS LIQ",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 9,
+    "ean": "7801268002033",
+    "short_name": "Atun Lomitos en aceite",
+    "long_name": "Atun Lomitos Aceite Angelmo 104 Gr Dr",
+    "content": {
+      "content_detail": 104,
+      "measure_unit": "g."
+    },
+    "brand": "ANGELMO",
+    "first_category": "ALMACEN",
+    "second_category": "CONSERVAS MAR/OTRO",
+    "proxy_duration": "Corta",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 10,
+    "ean": "7801268002040",
+    "short_name": "Atun Lomitos en agua",
+    "long_name": "Atun Lomitos Agua Angelmo 104gr Dr",
+    "content": {
+      "content_detail": 104,
+      "measure_unit": "g."
+    },
+    "brand": "ANGELMO",
+    "first_category": "ALMACEN",
+    "second_category": "CONSERVAS MAR/OTRO",
+    "proxy_duration": "Corta",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 11,
+    "ean": "7891991013512",
+    "short_name": "Guaraná Zero",
+    "long_name": "Bebida Guarana Zero Lata 350cc",
+    "content": {
+      "content_detail": 350,
+      "measure_unit": "ml."
+    },
+    "brand": "GUARANA ANTARTICA",
+    "first_category": "BOTILLERÍA/GASEOSAS",
+    "second_category": "BEBIDAS GASEOSAS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 12,
+    "ean": "7804627650258",
+    "short_name": "Hummus",
+    "long_name": "Pasta Hummus 220 Gr",
+    "content": {
+      "content_detail": 220,
+      "measure_unit": "g."
+    },
+    "brand": "BUKA",
+    "first_category": "COCKTAIL",
+    "second_category": "SALSAS Y ADEREZOS",
+    "proxy_duration": "Corta",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 13,
+    "ean": "7802575353047",
+    "short_name": "Pomarola Italiana 200gr",
+    "long_name": "Salsa Pomarola Sachet  Italiana 200 Gr.",
+    "content": {
+      "content_detail": 200,
+      "measure_unit": "g."
+    },
+    "brand": "POMAROLA",
+    "first_category": "ALMACEN",
+    "second_category": "LINEA ROJA",
+    "proxy_duration": "Media",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 14,
+    "ean": "855958006662",
+    "short_name": "Churu tuna & salmon",
+    "long_name": "Snack Gato Churu Atun Y Salmon 56g",
+    "content": {
+      "content_detail": 56,
+      "measure_unit": "g."
+    },
+    "brand": "INABA",
+    "first_category": "MASCOTAS",
+    "second_category": "ALIMENTOS GATOS",
+    "proxy_duration": "Media",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 15,
+    "ean": "7801610001622",
+    "short_name": "Coca Normal 1.5lt",
+    "long_name": "Bebida Coca Cola Pet 1.5 Lt",
+    "content": {
+      "content_detail": 1500,
+      "measure_unit": "ml."
+    },
+    "brand": "COCA COLA",
+    "first_category": "BOTILLERÍA/GASEOSAS",
+    "second_category": "BEBIDAS GASEOSAS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 16,
+    "ean": "7801610223727",
+    "short_name": "Sprite Zero 1.5lt",
+    "long_name": "Bebida Sprite Zero Pet 1.5lt",
+    "content": {
+      "content_detail": 1500,
+      "measure_unit": "ml."
+    },
+    "brand": "SPRITE",
+    "first_category": "BOTILLERÍA/GASEOSAS",
+    "second_category": "BEBIDAS GASEOSAS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 17,
+    "ean": "7801610350355",
+    "short_name": "Coca Zero 350ml",
+    "long_name": "Bebida Coca Cola Sin Azucar Lata 350cc",
+    "content": {
+      "content_detail": 350,
+      "measure_unit": "ml."
+    },
+    "brand": "COCA COLA ZERO",
+    "first_category": "BOTILLERÍA/GASEOSAS",
+    "second_category": "BEBIDAS GASEOSAS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 18,
+    "ean": "7801610350409",
+    "short_name": "Coca Zero 1.5 lt",
+    "long_name": "Bebida Coca Cola Sin Azucar Pet 1.5lt",
+    "content": {
+      "content_detail": 1500,
+      "measure_unit": "ml."
+    },
+    "brand": "COCA COLA ZERO",
+    "first_category": "BOTILLERÍA/GASEOSAS",
+    "second_category": "BEBIDAS GASEOSAS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 19,
+    "ean": "7801610671030",
+    "short_name": "Fanta zero 1.5lt",
+    "long_name": "Fanta Zero Con Vit Des 1.5 Lt",
+    "content": {
+      "content_detail": 1500,
+      "measure_unit": "ml."
+    },
+    "brand": "FANTA",
+    "first_category": "BOTILLERÍA/GASEOSAS",
+    "second_category": "BEBIDAS GASEOSAS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 20,
+    "ean": "7802920009384",
+    "short_name": "Protein+ pouch frutilla platano",
+    "long_name": "Yog Protein Plus Squeeze 150g, Frut-Plat",
+    "content": {
+      "content_detail": 150,
+      "measure_unit": "g."
+    },
+    "brand": "COLUN",
+    "first_category": "LACTEOS",
+    "second_category": "YOGHURT Y POSTRES",
+    "proxy_duration": "Corta",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Lacteos"
+  },
+  {
+    "id": 21,
+    "ean": "7802920009391",
+    "short_name": "Protein+ pouch vainilla",
+    "long_name": "Yog Protein Plus Squeeze 150g, Vainilla",
+    "content": {
+      "content_detail": 150,
+      "measure_unit": "g."
+    },
+    "brand": "COLUN",
+    "first_category": "LACTEOS",
+    "second_category": "YOGHURT Y POSTRES",
+    "proxy_duration": "Corta",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Lacteos"
+  },
+  {
+    "id": 22,
+    "ean": "7802920009407",
+    "short_name": "Protein+ pouch frutilla",
+    "long_name": "Yog Protein Plus Squeeze 150g, Frutilla",
+    "content": {
+      "content_detail": 150,
+      "measure_unit": "g."
+    },
+    "brand": "COLUN",
+    "first_category": "LACTEOS",
+    "second_category": "YOGHURT Y POSTRES",
+    "proxy_duration": "Corta",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Lacteos"
+  },
+  {
+    "id": 23,
+    "ean": "7802920000749",
+    "short_name": "Quesillo 320g",
+    "long_name": "Quesillo Colun Pote 320gr",
+    "content": {
+      "content_detail": 320,
+      "measure_unit": "g."
+    },
+    "brand": "COLUN",
+    "first_category": "QUESERÍA",
+    "second_category": "QUESERIA ENV",
+    "proxy_duration": "Media",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Lacteos"
+  },
+  {
+    "id": 24,
+    "ean": "7802920008110",
+    "short_name": "Café Cappuccino",
+    "long_name": "Leche Colun Capuccino Prisma 330ml",
+    "content": {
+      "content_detail": 330,
+      "measure_unit": "ml."
+    },
+    "brand": "COLUN",
+    "first_category": "LACTEOS",
+    "second_category": "LECHES UHT",
+    "proxy_duration": "Media",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 25,
+    "ean": "7802920008141",
+    "short_name": "Light Café Cappuccino",
+    "long_name": "Leche Colun Light Capuccino Prisma 330ml",
+    "content": {
+      "content_detail": 330,
+      "measure_unit": "ml."
+    },
+    "brand": "COLUN",
+    "first_category": "LACTEOS",
+    "second_category": "LECHES UHT",
+    "proxy_duration": "Media",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 26,
+    "ean": "7802920203300",
+    "short_name": "Mantequilla con Sal 250gr",
+    "long_name": "Mantequilla Colun C/Sal Pan 250 Gr",
+    "content": {
+      "content_detail": 250,
+      "measure_unit": "g."
+    },
+    "brand": "COLUN",
+    "first_category": "LACTEOS",
+    "second_category": "MANTEQUILLA",
+    "proxy_duration": "Media",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 27,
+    "ean": "7802215121258",
+    "short_name": "Rolls Crocante 150gr",
+    "long_name": "Chocolate Costa Rolls Crocante 150 Gr",
+    "content": {
+      "content_detail": 150,
+      "measure_unit": "g."
+    },
+    "brand": "COSTA",
+    "first_category": "GALLETAS Y GOLOSINAS",
+    "second_category": "CHOCOLATES",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 28,
+    "ean": "7802215615085",
+    "short_name": "Crackelet tripack 255gr",
+    "long_name": "Gall Costa Crackelet Tripack 255 Grs",
+    "content": {
+      "content_detail": 255,
+      "measure_unit": "g."
+    },
+    "brand": "COSTA",
+    "first_category": "GALLETAS Y GOLOSINAS",
+    "second_category": "GALLETAS SALADAS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "true",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 29,
+    "ean": "7804000003145",
+    "short_name": "Barra Low Carb",
+    "long_name": "Barra Low Carb Chocolate En Linea (Un.)",
+    "content": {
+      "content_detail": 35,
+      "measure_unit": "g."
+    },
+    "brand": "EN LINEA",
+    "first_category": "ALMACEN",
+    "second_category": "CEREALES",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 30,
+    "ean": "7802420510113",
+    "short_name": "Palmitos enteros",
+    "long_name": "Palmitos Enteros Esmeralda 220 Gr Dr",
+    "content": {
+      "content_detail": 220,
+      "measure_unit": "g."
+    },
+    "brand": "ESMERALDA",
+    "first_category": "ALMACEN",
+    "second_category": "CONSERVAS FF/VV",
+    "proxy_duration": "Corta",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 31,
+    "ean": "7802000014116",
+    "short_name": "Ramitas original 250g",
+    "long_name": "*Ramitas Evercrisp Sal 250 Gr",
+    "content": {
+      "content_detail": 250,
+      "measure_unit": "g."
+    },
+    "brand": "EVERCRISP",
+    "first_category": "COCKTAIL",
+    "second_category": "SNACKS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 32,
+    "ean": "7802000014123",
+    "short_name": "Ramitas Queso 250gr",
+    "long_name": "*Ramitas Evercrisp Queso 250 Gr",
+    "content": {
+      "content_detail": 250,
+      "measure_unit": "g."
+    },
+    "brand": "EVERCRISP",
+    "first_category": "COCKTAIL",
+    "second_category": "SNACKS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 33,
+    "ean": "7802000015168",
+    "short_name": "De Todito Queso 120g",
+    "long_name": "Detodito Ii Evercrisp 120 G",
+    "content": {
+      "content_detail": 120,
+      "measure_unit": "g."
+    },
+    "brand": "EVERCRISP",
+    "first_category": "COCKTAIL",
+    "second_category": "SNACKS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 34,
+    "ean": "7802000016448",
+    "short_name": "De Todito Original 120g",
+    "long_name": "Detodito I Evercrisp 120gr",
+    "content": {
+      "content_detail": 120,
+      "measure_unit": "g."
+    },
+    "brand": "EVERCRISP",
+    "first_category": "COCKTAIL",
+    "second_category": "SNACKS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 35,
+    "ean": "7898591453274",
+    "short_name": "Gusanos Ácidos 90gr",
+    "long_name": "Gomitas Gusanos Acidos Fini 90 Gr",
+    "content": {
+      "content_detail": 90,
+      "measure_unit": "g."
+    },
+    "brand": "FINI",
+    "first_category": "GALLETAS Y GOLOSINAS",
+    "second_category": "GOLOSINAS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 36,
+    "ean": "7908228801726",
+    "short_name": "Tubos dulces acidos",
+    "long_name": "Regaliz Pocket Frutilla Acida Fini 30g",
+    "content": {
+      "content_detail": 30,
+      "measure_unit": "g."
+    },
+    "brand": "FINI",
+    "first_category": "GALLETAS Y GOLOSINAS",
+    "second_category": "CHECK OUT",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 37,
+    "ean": "7908228801764",
+    "short_name": "Gusanos ácidos pequño",
+    "long_name": "Gomitas Pocket Gusanos Acidos Fini 40g",
+    "content": {
+      "content_detail": 40,
+      "measure_unit": "g."
+    },
+    "brand": "FINI",
+    "first_category": "GALLETAS Y GOLOSINAS",
+    "second_category": "CHECK OUT",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 38,
+    "ean": "7803480001078",
+    "short_name": "Pan Molde Multigrano",
+    "long_name": "Pan Molde Multigrano Fuchs 380g",
+    "content": {
+      "content_detail": 380,
+      "measure_unit": "g."
+    },
+    "brand": "FUCHS",
+    "first_category": "PANIFICADOS",
+    "second_category": "PANADERIA ENV.",
+    "proxy_duration": "Corta",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 39,
+    "ean": "7804097011016",
+    "short_name": "Ensalada Toscana 300gr",
+    "long_name": "Ens Toscana 300 Gr Genial",
+    "content": {
+      "content_detail": 300,
+      "measure_unit": "g."
+    },
+    "brand": "GENIAL",
+    "first_category": "FRUTAS Y VERDURAS",
+    "second_category": "PRODUCTOS LISTOS",
+    "proxy_duration": "Corta",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Frutas"
+  },
+  {
+    "id": 40,
+    "ean": "632432333304",
+    "short_name": "Yerba Mate Orgánico Cranberry 355ml",
+    "long_name": "Guayaki Yerba Mate Organico Cranber355cc",
+    "content": {
+      "content_detail": 355,
+      "measure_unit": "ml."
+    },
+    "brand": "GUAYAKI",
+    "first_category": "BOTILLERÍA/GASEOSAS",
+    "second_category": "NECTAR Y JUGOS LIQ",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Frutas"
+  },
+  {
+    "id": 41,
+    "ean": "7803200804132",
+    "short_name": "Mayonesa Regular Doypack 372gr.",
+    "long_name": "Mayonesa Hellmann'S 372 Gr",
+    "content": {
+      "content_detail": 372,
+      "measure_unit": "g."
+    },
+    "brand": "HELLMANN`S",
+    "first_category": "COCKTAIL",
+    "second_category": "SALSAS Y ADEREZOS",
+    "proxy_duration": "Media",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 42,
+    "ean": "7801610230510",
+    "short_name": "Inca Kola 1,5lt",
+    "long_name": "Bebida Inca Kola Zero 1.5 Lt",
+    "content": {
+      "content_detail": 1500,
+      "measure_unit": "ml."
+    },
+    "brand": "INCA KOLA",
+    "first_category": "BOTILLERÍA/GASEOSAS",
+    "second_category": "BEBIDAS GASEOSAS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 43,
+    "ean": "7801610277829",
+    "short_name": "Inca Kola 350ml",
+    "long_name": "Bebida Inca Kola Lata 350cc",
+    "content": {
+      "content_detail": 350,
+      "measure_unit": "ml."
+    },
+    "brand": "INCA KOLA",
+    "first_category": "BOTILLERÍA/GASEOSAS",
+    "second_category": "BEBIDAS GASEOSAS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 44,
+    "ean": "7750526000178",
+    "short_name": "Platano ducle frio",
+    "long_name": "Platano Frito Inka Chips Dulce 100g",
+    "content": {
+      "content_detail": 100,
+      "measure_unit": "g."
+    },
+    "brand": "JUMBO IMPO",
+    "first_category": "COCKTAIL",
+    "second_category": "SNACKS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 45,
+    "ean": "7750526000017",
+    "short_name": "Inka Corn Original",
+    "long_name": "Maiz Gigante Inka Corn Original 100g",
+    "content": {
+      "content_detail": 100,
+      "measure_unit": "g."
+    },
+    "brand": "JUMBO IMPO",
+    "first_category": "COCKTAIL",
+    "second_category": "FRUTOS SECOS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 46,
+    "ean": "7750526000031",
+    "short_name": "Inka Corn Chile Picante",
+    "long_name": "Maiz Gigante Inka Corn Picante 100g",
+    "content": {
+      "content_detail": 100,
+      "measure_unit": "g."
+    },
+    "brand": "JUMBO IMPO",
+    "first_category": "COCKTAIL",
+    "second_category": "FRUTOS SECOS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 47,
+    "ean": "7802640600397",
+    "short_name": "Ketchup Doypack 500 gr",
+    "long_name": "Ketchup J.B. Doy-Pack 500 Gr.",
+    "content": {
+      "content_detail": 500,
+      "measure_unit": "g."
+    },
+    "brand": "JB",
+    "first_category": "COCKTAIL",
+    "second_category": "SALSAS Y ADEREZOS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 48,
+    "ean": "2498832019907",
+    "short_name": "Yogur Granola Mango/Frambuesa",
+    "long_name": "Yogurt + Granola Jumbo Mango Framb Un",
+    "content": {
+      "content_detail": 1,
+      "measure_unit": "un."
+    },
+    "brand": "JUMBO E.P.",
+    "first_category": "ROTISERÍA / PLATOS PREPARADOS",
+    "second_category": "PLATOS PREPARADOS",
+    "proxy_duration": "Corta",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Lacteos"
+  },
+  {
+    "id": 49,
+    "ean": "7801620852580",
+    "short_name": "Kem Piña 350ml",
+    "long_name": "Bebida Kem PiñA Lata 350cc",
+    "content": {
+      "content_detail": 350,
+      "measure_unit": "ml."
+    },
+    "brand": "KEM",
+    "first_category": "BOTILLERÍA/GASEOSAS",
+    "second_category": "BEBIDAS GASEOSAS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 50,
+    "ean": "7804674980032",
+    "short_name": "Guaraná Blended",
+    "long_name": "Kiway Energy",
+    "content": {
+      "content_detail": 250,
+      "measure_unit": "ml."
+    },
+    "brand": "KIWAY",
+    "first_category": "BOTILLERÍA/GASEOSAS",
+    "second_category": "OTRAS BEBIDAS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 51,
+    "ean": "7804674980049",
+    "short_name": "Guaraná One",
+    "long_name": "Kiway Premium Energy",
+    "content": {
+      "content_detail": 250,
+      "measure_unit": "ml."
+    },
+    "brand": "KIWAY",
+    "first_category": "BOTILLERÍA/GASEOSAS",
+    "second_category": "OTRAS BEBIDAS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 52,
+    "ean": "7804665370262",
+    "short_name": "Kombucha Arandano",
+    "long_name": "Kombuchacha Cero Arandano Lata 355ml",
+    "content": {
+      "content_detail": 350,
+      "measure_unit": "ml."
+    },
+    "brand": "KOMBUCHACHA",
+    "first_category": "LACTEOS",
+    "second_category": "JUGOS FRESCOS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 53,
+    "ean": "7804665370293",
+    "short_name": "Kombucha original",
+    "long_name": "Kombuchacha Cero Original Lata 355ml",
+    "content": {
+      "content_detail": 350,
+      "measure_unit": "ml."
+    },
+    "brand": "KOMBUCHACHA",
+    "first_category": "LACTEOS",
+    "second_category": "JUGOS FRESCOS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 54,
+    "ean": "7804665370309",
+    "short_name": "Kombucha Te verde",
+    "long_name": "Kombuchacha Cero Te Verde Lata 355ml",
+    "content": {
+      "content_detail": 350,
+      "measure_unit": "ml."
+    },
+    "brand": "KOMBUCHACHA",
+    "first_category": "LACTEOS",
+    "second_category": "JUGOS FRESCOS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 55,
+    "ean": "7802800533589",
+    "short_name": "Papas fritas cebolla",
+    "long_name": "Papas Kryzpo Crema Cebolla 130 Gr",
+    "content": {
+      "content_detail": 140,
+      "measure_unit": "g."
+    },
+    "brand": "KRYZPO",
+    "first_category": "COCKTAIL",
+    "second_category": "SNACKS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 56,
+    "ean": "7802800535583",
+    "short_name": "Papas fritas cebolla chicas",
+    "long_name": "Papas Kryzpo Crema Cebolla 37 Gr",
+    "content": {
+      "content_detail": 40,
+      "measure_unit": "g."
+    },
+    "brand": "KRYZPO",
+    "first_category": "COCKTAIL",
+    "second_category": "SNACKS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 57,
+    "ean": "7802800533565",
+    "short_name": "Papas Fritas Original 130gr",
+    "long_name": "Papas Kryzpo Original 130 Gr",
+    "content": {
+      "content_detail": 140,
+      "measure_unit": "g."
+    },
+    "brand": "KRYZPO",
+    "first_category": "COCKTAIL",
+    "second_category": "SNACKS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 58,
+    "ean": "7802800535569",
+    "short_name": "Papas Fritas Original 37gr",
+    "long_name": "Papas Kryzpo Original 37 Gr",
+    "content": {
+      "content_detail": 40,
+      "measure_unit": "g."
+    },
+    "brand": "KRYZPO",
+    "first_category": "COCKTAIL",
+    "second_category": "SNACKS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 59,
+    "ean": "7801916031538",
+    "short_name": "Jamón Pierna 125gr",
+    "long_name": "Jamon Pierna Cp La Preferida 125 Gr",
+    "content": {
+      "content_detail": 125,
+      "measure_unit": "g."
+    },
+    "brand": "LA PREFERIDA",
+    "first_category": "FIAMBRERIA",
+    "second_category": "FIAMBRERIA ENV",
+    "proxy_duration": "Corta",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 60,
+    "ean": "40000536789",
+    "short_name": "M&M Maní",
+    "long_name": "M&M'S Singles Peanut 49g",
+    "content": {
+      "content_detail": 49,
+      "measure_unit": "g."
+    },
+    "brand": "M&M",
+    "first_category": "GALLETAS Y GOLOSINAS",
+    "second_category": "CHECK OUT",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 61,
+    "ean": "40000536819",
+    "short_name": "&M Chocolate",
+    "long_name": "M&M'S Singles Milk Choc 48gr",
+    "content": {
+      "content_detail": 48,
+      "measure_unit": "g."
+    },
+    "brand": "M&M",
+    "first_category": "GALLETAS Y GOLOSINAS",
+    "second_category": "CHECK OUT",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 62,
+    "ean": "7802420127106",
+    "short_name": "Fruits & Nuts Bora bora",
+    "long_name": "Mix Marco Polo Bora Bora 80gr",
+    "content": {
+      "content_detail": 80,
+      "measure_unit": "g."
+    },
+    "brand": "MARCO POLO",
+    "first_category": "COCKTAIL",
+    "second_category": "FRUTOS SECOS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 63,
+    "ean": "7802420127151",
+    "short_name": "Fruits & nuts Maui",
+    "long_name": "Mix Frutos Secos Marco Polo Morado 80 Gr",
+    "content": {
+      "content_detail": 80,
+      "measure_unit": "g."
+    },
+    "brand": "MARCO POLO",
+    "first_category": "COCKTAIL",
+    "second_category": "FRUTOS SECOS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 64,
+    "ean": "7803473005885",
+    "short_name": "Mankeke pack 4 un",
+    "long_name": "Mankeke 4p 120g Cajilla Mla",
+    "content": {
+      "content_detail": 120,
+      "measure_unit": "g."
+    },
+    "brand": "MARINELA",
+    "first_category": "PASTELERIA",
+    "second_category": "PASTELERIA ENV.",
+    "proxy_duration": "Media",
+    "is_pack": "true",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 65,
+    "ean": "7803473241214",
+    "short_name": "Mankeke (un)",
+    "long_name": "Mankeke 1p 30g",
+    "content": {
+      "content_detail": 30,
+      "measure_unit": "g."
+    },
+    "brand": "MARINELA",
+    "first_category": "PASTELERIA",
+    "second_category": "PASTELERIA ENV.",
+    "proxy_duration": "Media",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 66,
+    "ean": "41789001918",
+    "short_name": "Maruchan Pollo 64g",
+    "long_name": "Comida Inst Maruchan Pollo 64gr",
+    "content": {
+      "content_detail": 64,
+      "measure_unit": "g."
+    },
+    "brand": "MARUCHAN",
+    "first_category": "ALMACEN",
+    "second_category": "PLATOS PREP INSTAN",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 67,
+    "ean": "7802575531728",
+    "short_name": "Sachet p/perro sabor pollo",
+    "long_name": "Alim Hum Master Dog Retortable Pollo100",
+    "content": {
+      "content_detail": 100,
+      "measure_unit": "g."
+    },
+    "brand": "MASTERDOG",
+    "first_category": "MASCOTAS",
+    "second_category": "ALIMENTOS  PERROS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Mascotas"
+  },
+  {
+    "id": 68,
+    "ean": "7802575531759",
+    "short_name": "Sachet p/perro sabor carne",
+    "long_name": "Alim Hum Master Dog Retortable Carne100",
+    "content": {
+      "content_detail": 100,
+      "measure_unit": "g."
+    },
+    "brand": "MASTERDOG",
+    "first_category": "MASCOTAS",
+    "second_category": "ALIMENTOS  PERROS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Mascotas"
+  },
+  {
+    "id": 69,
+    "ean": "7802230086952",
+    "short_name": "Galleta Tritón Vainilla 126gr",
+    "long_name": "Galleta Triton Mckay 126gr, Vainilla",
+    "content": {
+      "content_detail": 130,
+      "measure_unit": "g."
+    },
+    "brand": "MC KAY",
+    "first_category": "GALLETAS Y GOLOSINAS",
+    "second_category": "GALLETAS DULCES",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 70,
+    "ean": "7804646450020",
+    "short_name": "Galletas Arroz Chocolate 20g",
+    "long_name": "Galletas De Arroz Mizos Chocolate 20grs",
+    "content": {
+      "content_detail": 20,
+      "measure_unit": "g."
+    },
+    "brand": "MIZOS",
+    "first_category": "GALLETAS Y GOLOSINAS",
+    "second_category": "GALLETAS DULCES",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 71,
+    "ean": "70847009511",
+    "short_name": "Monster Regular 473ml",
+    "long_name": "Bebida Monster Energy 473cc",
+    "content": {
+      "content_detail": 473,
+      "measure_unit": "ml."
+    },
+    "brand": "MONSTER",
+    "first_category": "BOTILLERÍA/GASEOSAS",
+    "second_category": "OTRAS BEBIDAS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 72,
+    "ean": "70847033219",
+    "short_name": "Monster Sin Azúcar 473ml",
+    "long_name": "Beb Ener Monster Abs Zero Lata 473 Cc",
+    "content": {
+      "content_detail": 473,
+      "measure_unit": "ml."
+    },
+    "brand": "MONSTER",
+    "first_category": "BOTILLERÍA/GASEOSAS",
+    "second_category": "OTRAS BEBIDAS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 73,
+    "ean": "7702084137520",
+    "short_name": "Harina Pan 1kg",
+    "long_name": "Harina De MaíZ P.A.N. Blanca 1 Kg",
+    "content": {
+      "content_detail": 1000,
+      "measure_unit": "g."
+    },
+    "brand": "P.AN",
+    "first_category": "ALMACEN",
+    "second_category": "HARINAS Y FECULAS",
+    "proxy_duration": "Media",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Harinas"
+  },
+  {
+    "id": 74,
+    "ean": "7622201797560",
+    "short_name": "Queso Crema Original",
+    "long_name": "Queso Philadelphia Crema 180 Gr",
+    "content": {
+      "content_detail": 180,
+      "measure_unit": "g."
+    },
+    "brand": "PHILADELPHIA",
+    "first_category": "QUESERÍA",
+    "second_category": "QUESERIA ENV",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Lacteos"
+  },
+  {
+    "id": 75,
+    "ean": "7804660620010",
+    "short_name": "Popcorn snack",
+    "long_name": "Cabritas Puripop Oliva Sal De Mar 13g",
+    "content": {
+      "content_detail": 13,
+      "measure_unit": "g."
+    },
+    "brand": "PURIPOP",
+    "first_category": "COCKTAIL",
+    "second_category": "SNACKS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 76,
+    "ean": "7804660620379",
+    "short_name": "Ramitas de garbanzo queso",
+    "long_name": "Puri Ramitas Queso Puripop 35 Gr",
+    "content": {
+      "content_detail": 35,
+      "measure_unit": "g."
+    },
+    "brand": "PURIPOP",
+    "first_category": "COCKTAIL",
+    "second_category": "SNACKS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 77,
+    "ean": "7802000003707",
+    "short_name": "Barra colación avena chips de cacao",
+    "long_name": "Barra Cereal Quaker Chispa Cacao 1un",
+    "content": {
+      "content_detail": 20,
+      "measure_unit": "g."
+    },
+    "brand": "QUAKER",
+    "first_category": "ALMACEN",
+    "second_category": "CEREALES",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 78,
+    "ean": "7802000005824",
+    "short_name": "Galleton Casero Arándano rojo",
+    "long_name": "Galleton Quaker Avena Arandanos 40 Gr",
+    "content": {
+      "content_detail": 40,
+      "measure_unit": "g."
+    },
+    "brand": "QUAKER",
+    "first_category": "GALLETAS Y GOLOSINAS",
+    "second_category": "GALLETAS DULCES",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 79,
+    "ean": "7802000005831",
+    "short_name": "Galletón Casero Chocolate",
+    "long_name": "Galleton Quaker Avena Chispas Choc 40 Gr",
+    "content": {
+      "content_detail": 40,
+      "measure_unit": "g."
+    },
+    "brand": "QUAKER",
+    "first_category": "GALLETAS Y GOLOSINAS",
+    "second_category": "GALLETAS DULCES",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 80,
+    "ean": "7801930021195",
+    "short_name": "Mini Chorizo",
+    "long_name": "Snack Mini Chorizo Receta Del Abuelo 60g",
+    "content": {
+      "content_detail": 60,
+      "measure_unit": "g."
+    },
+    "brand": "RECETA ABUELO",
+    "first_category": "FIAMBRERIA",
+    "second_category": "FIAMBRERIA SECA",
+    "proxy_duration": "Corta",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 81,
+    "ean": "7801930021218",
+    "short_name": "MIni salamini",
+    "long_name": "Snack Mini Salamini Rec Del Abuelo 60g",
+    "content": {
+      "content_detail": 60,
+      "measure_unit": "g."
+    },
+    "brand": "RECETA ABUELO",
+    "first_category": "FIAMBRERIA",
+    "second_category": "FIAMBRERIA SECA",
+    "proxy_duration": "Corta",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 82,
+    "ean": "9002490100070",
+    "short_name": "Redbull 250ml",
+    "long_name": "Bebida Energ Red Bull  Lata 250cc",
+    "content": {
+      "content_detail": 250,
+      "measure_unit": "ml."
+    },
+    "brand": "RED BULL",
+    "first_category": "BOTILLERÍA/GASEOSAS",
+    "second_category": "OTRAS BEBIDAS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 83,
+    "ean": "9002490214852",
+    "short_name": "Redbull Light 250ml",
+    "long_name": "Beb Energ Red Bull Sugar Free 250cc",
+    "content": {
+      "content_detail": 250,
+      "measure_unit": "ml."
+    },
+    "brand": "RED BULL",
+    "first_category": "BOTILLERÍA/GASEOSAS",
+    "second_category": "OTRAS BEBIDAS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 84,
+    "ean": "7801907014212",
+    "short_name": "Chorizo Sureño 400gr",
+    "long_name": "Chorizo SureñO Premium San Jorge 400gr",
+    "content": {
+      "content_detail": 400,
+      "measure_unit": "g."
+    },
+    "brand": "SAN JORGE",
+    "first_category": "FIAMBRERIA",
+    "second_category": "FIAMBRERIA ENV",
+    "proxy_duration": "Corta",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 85,
+    "ean": "7802225683050",
+    "short_name": "Selz Horneada Salada clásica",
+    "long_name": "Galleta Mini Selz Clasica 35 Gr",
+    "content": {
+      "content_detail": 35,
+      "measure_unit": "g."
+    },
+    "brand": "ARCOR",
+    "first_category": "GALLETAS Y GOLOSINAS",
+    "second_category": "GALLETAS SALADAS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 86,
+    "ean": "7804668080120",
+    "short_name": "Energy Balls nuez almendra",
+    "long_name": "Smartsnack Energyball Nuez Almendra 40g",
+    "content": {
+      "content_detail": 40,
+      "measure_unit": "g."
+    },
+    "brand": "SMARTSNACK",
+    "first_category": "COCKTAIL",
+    "second_category": "SNACKS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 87,
+    "ean": "7613035953949",
+    "short_name": "Sémola Caramelo Soprole 140gr",
+    "long_name": "Semola C/Leche Nestle C/Cuch Caram 135gr",
+    "content": {
+      "content_detail": 135,
+      "measure_unit": "g."
+    },
+    "brand": "NESTLE",
+    "first_category": "LACTEOS",
+    "second_category": "YOGHURT Y POSTRES",
+    "proxy_duration": "Corta",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 88,
+    "ean": "7802900001162",
+    "short_name": "Queso Gauda Laminado 250gr",
+    "long_name": "Queso Gauda Soprole Lam 250g",
+    "content": {
+      "content_detail": 250,
+      "measure_unit": "g."
+    },
+    "brand": "DOS ALAMOS",
+    "first_category": "QUESERÍA",
+    "second_category": "QUESERIA ENV",
+    "proxy_duration": "Media",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Lacteos"
+  },
+  {
+    "id": 89,
+    "ean": "7802900001520",
+    "short_name": "Leche Protein Chocolate 200ml",
+    "long_name": "Leche Proteina Soprole Chocolate 200 Ml",
+    "content": {
+      "content_detail": 200,
+      "measure_unit": "ml."
+    },
+    "brand": "SOPROLE",
+    "first_category": "LACTEOS",
+    "second_category": "LECHES UHT",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Lacteos"
+  },
+  {
+    "id": 90,
+    "ean": "7802900003234",
+    "short_name": "Protein+ semillas zapallo nueces 150g",
+    "long_name": "Yog+Cereal Soprole 1+1 Protei, Sem&Pasas",
+    "content": {
+      "content_detail": 150,
+      "measure_unit": "g."
+    },
+    "brand": "SOPROLE",
+    "first_category": "LACTEOS",
+    "second_category": "YOGHURT Y POSTRES",
+    "proxy_duration": "Media",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 91,
+    "ean": "7802900105013",
+    "short_name": "Crema de leche espesa",
+    "long_name": "Crema Soprole Espesa Cj 200 Ml",
+    "content": {
+      "content_detail": 200,
+      "measure_unit": "ml."
+    },
+    "brand": "SOPROLE",
+    "first_category": "LACTEOS",
+    "second_category": "CREMAS DE LECHE",
+    "proxy_duration": "Media",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 92,
+    "ean": "7802820600100",
+    "short_name": "Agua con Gas 600ml",
+    "long_name": "Agua Min Vital C/G Des 600cc",
+    "content": {
+      "content_detail": 600,
+      "measure_unit": "ml."
+    },
+    "brand": "VITAL",
+    "first_category": "BOTILLERÍA/GASEOSAS",
+    "second_category": "AGUAS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 93,
+    "ean": "7802820600209",
+    "short_name": "Agua sin Gas 600ml",
+    "long_name": "Agua Mineral Vital S/Gas 600",
+    "content": {
+      "content_detail": 600,
+      "measure_unit": "ml."
+    },
+    "brand": "VITAL",
+    "first_category": "BOTILLERÍA/GASEOSAS",
+    "second_category": "AGUAS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Bebidas"
+  },
+  {
+    "id": 94,
+    "ean": "7802200270015",
+    "short_name": "Compota durazno 90gr",
+    "long_name": "Compota Mifrut Durazno 90 Gr",
+    "content": {
+      "content_detail": 90,
+      "measure_unit": "g."
+    },
+    "brand": "VIVO",
+    "first_category": "ALMACEN",
+    "second_category": "CONSERVAS FF/VV",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 95,
+    "ean": "7802200270022",
+    "short_name": "Compota Manzana 90gr",
+    "long_name": "Compota Mifrut Manzana 90 Gr",
+    "content": {
+      "content_detail": 90,
+      "measure_unit": "g."
+    },
+    "brand": "VIVO",
+    "first_category": "ALMACEN",
+    "second_category": "CONSERVAS FF/VV",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 96,
+    "ean": "7802200270039",
+    "short_name": "Compota Pera 90gr",
+    "long_name": "Compota Mifrut Pera 90 Gr",
+    "content": {
+      "content_detail": 90,
+      "measure_unit": "g."
+    },
+    "brand": "VIVO",
+    "first_category": "ALMACEN",
+    "second_category": "CONSERVAS FF/VV",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 97,
+    "ean": "7802810010193",
+    "short_name": "Mermelada Frutilla s/azucar 250gr",
+    "long_name": "Mermelada Watt'S S/Az Frutilla 200g",
+    "content": {
+      "content_detail": 200,
+      "measure_unit": "g."
+    },
+    "brand": "WATT S",
+    "first_category": "ALMACEN",
+    "second_category": "MERMELADAS-MIEL",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 98,
+    "ean": "7797453000413",
+    "short_name": "Sachet p/gato sabor salmón",
+    "long_name": "Alim Gato Whiskas Sobre Salmon 85 Grs",
+    "content": {
+      "content_detail": 85,
+      "measure_unit": "g."
+    },
+    "brand": "WHISKAS",
+    "first_category": "MASCOTAS",
+    "second_category": "ALIMENTOS GATOS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Mascotas"
+  },
+  {
+    "id": 99,
+    "ean": "7797453000420",
+    "short_name": "Sachet p/gato sabor carne",
+    "long_name": "Alim Gato Whiskas Sobre Carne 85 Grs",
+    "content": {
+      "content_detail": 85,
+      "measure_unit": "g."
+    },
+    "brand": "WHISKAS",
+    "first_category": "MASCOTAS",
+    "second_category": "ALIMENTOS GATOS",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Mascotas"
+  },
+  {
+    "id": 100,
+    "ean": "7804673910030",
+    "short_name": "Protein bar chocolate mani",
+    "long_name": "Wild Protein Chocolate Mani Un",
+    "content": {
+      "content_detail": 45,
+      "measure_unit": "g."
+    },
+    "brand": "WILD",
+    "first_category": "ALMACEN",
+    "second_category": "CHECK OUT",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 101,
+    "ean": "7804673910191",
+    "short_name": "Protin bar chocolate coco",
+    "long_name": "Wild Protein Veg Chocolate Coco Un",
+    "content": {
+      "content_detail": 45,
+      "measure_unit": "g."
+    },
+    "brand": "WILD",
+    "first_category": "ALMACEN",
+    "second_category": "CHECK OUT",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 102,
+    "ean": "7804673910030",
+    "short_name": "Barra Wild Chocolate Maní 45gr",
+    "long_name": "Wild Protein Chocolate Mani Un",
+    "content": {
+      "content_detail": 45,
+      "measure_unit": "g."
+    },
+    "brand": "WILD",
+    "first_category": "ALMACEN",
+    "second_category": "CHECK OUT",
+    "proxy_duration": "No Perecible",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Dulces"
+  },
+  {
+    "id": 103,
+    "ean": "731299122127",
+    "short_name": "Panini Carne y Pepinillos",
+    "long_name": "Panini De Carne Y Salsa De Pepinillos",
+    "content": {
+      "content_detail": 1,
+      "measure_unit": "un."
+    },
+    "brand": "SIN MARCA",
+    "first_category": "PASTAS",
+    "second_category": "PLATOS PREPARADOS",
+    "proxy_duration": "Corta",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 104,
+    "ean": "731299122158",
+    "short_name": "Panini Tomate Albahaca Mozarella",
+    "long_name": "Panini Tomate Albahaca Y Mozzarella",
+    "content": {
+      "content_detail": 1,
+      "measure_unit": "un."
+    },
+    "brand": "SIN MARCA",
+    "first_category": "PASTAS",
+    "second_category": "PLATOS PREPARADOS",
+    "proxy_duration": "Corta",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "Salado"
+  },
+  {
+    "id": 105,
+    "ean": "1111111111111110",
+    "short_name": "NN",
+    "long_name": "Nn",
+    "content": {
+      "content_detail": 0,
+      "measure_unit": "g."
+    },
+    "brand": "SIN MARCA",
+    "first_category": "NN",
+    "second_category": "NN",
+    "proxy_duration": "NN",
+    "is_pack": "false",
+    "primary_image": "",
+    "aisle": "NN"
+  }
+]
