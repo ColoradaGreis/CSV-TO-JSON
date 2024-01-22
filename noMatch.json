@@ -1,62 +1,4 @@
-const fs = require('fs');
-
-function flattenObject(obj, prefix = '') {
-    const flatObject = {};
-    for (const key in obj) {
-      if (typeof obj[key] === 'object' && !Array.isArray(obj[key])) {
-        // Tratar las propiedades especiales (por ejemplo, measures) de manera diferente
-        if (key === 'measures') {
-          const measures = obj[key];
-          measures.forEach((measure, index) => {
-            Object.assign(flatObject, flattenObject(measure, `${prefix}${key}_${index}_`));
-          });
-        } else {
-          Object.assign(flatObject, flattenObject(obj[key], `${prefix}${key}_`));
-        }
-      } else {
-        flatObject[`${prefix}${key}`] = obj[key];
-      }
-    }
-    return flatObject;
-  }
-  
-  function jsonToCsv(jsonData, csvFilePath) {
-    if (!Array.isArray(jsonData) || jsonData.length === 0) {
-      console.error('El JSON debe ser un array no vacío.');
-      return;
-    }
-  
-    // Aplanar las propiedades anidadas y los arrays de objetos
-    const flattenedData = jsonData.map(obj => flattenObject(obj));
-  
-    // Obtener las columnas del CSV a partir de las propiedades del primer objeto en el array
-    const columns = Object.keys(flattenedData[0]);
-  
-    // Crear el encabezado CSV
-    const header = columns.join(',');
-  
-    // Crear el contenido CSV
-    const rows = flattenedData.map(obj => columns.map(col => {
-      // Convertir las propiedades de measures a una cadena legible
-      if (col.startsWith('metadata_measures')) {
-        const measureIndex = parseInt(col.split('_')[2]);
-        return obj[col] ? `${obj[col].value} ${obj[col].type}` : '';
-      }
-      return obj[col];
-    }).join(','));
-  
-    // Unir encabezado y filas
-    const csvContent = [header, ...rows].join('\n').replace(/,/g, ';');
-  
-    // Guardar el contenido en un archivo CSV
-    fs.writeFileSync(csvFilePath, csvContent, 'utf-8');
-  
-    console.log(`La conversión del JSON a ${csvFilePath} ha sido exitosa.`);
-  }
-
-
-// Ejemplo de uso
-const jsonData = [
+[
     {
         "active": true,
         "clientId": "9mNQnyZWfDVuq4LH4lD7",
@@ -2152,8 +2094,3 @@ const jsonData = [
         "storesIds": []
     }
 ]
-
-const csvFilePath = "C:\Users\Usuario\Desktop\Programación\csv-to-json";
-
-jsonToCsv(jsonData, csvFilePath);
-
