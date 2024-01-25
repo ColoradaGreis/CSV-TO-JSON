@@ -1,5741 +1,4319 @@
 [
   {
-    "ean": "76150202199",
-    "sku": "2952",
-    "sap": "271954",
+    "ean": 76150202199,
+    "sku_sap": 271954,
+    "sku_vtex": 2952,
     "short_name": "Popcorn Mantequilla",
     "long_name": "Cabritas Act Ii Light Mantequilla 85 G",
-    "content": {
-      "content_detail": 85,
-      "measure_unit": "gr."
-    },
+    "content_detail": 85,
+    "measure_unit": "gr",
     "brand": "ACT11",
     "category": "COCKTAIL",
     "proxy_duration": "Media",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "76150230383",
-    "sku": "66",
-    "sap": "1408741",
+    "ean": 76150230383,
+    "sku_sap": 1408741,
+    "sku_vtex": 66,
     "short_name": "Popcorn Caramelo",
     "long_name": "Cabritas Act Ii Caramelo 161 G",
-    "content": {
-      "content_detail": 161,
-      "measure_unit": "gr."
-    },
+    "content_detail": 161,
+    "measure_unit": "gr",
     "brand": "ACT11",
     "category": "COCKTAIL",
     "proxy_duration": "Media",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7804515004934",
-    "sku": "57422",
-    "sap": "1724563",
+    "ean": 7,
+    "sku_sap": 1724563,
+    "sku_vtex": 57422,
     "short_name": "MIx goji & friends",
     "long_name": "Mezcla Goji 100gr",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "ALTO LA CRUZ",
     "category": "FRUTAS Y VERDURAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Snack Salado",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7804658020396",
-    "sku": "55705",
-    "sap": "1739913",
+    "ean": 7,
+    "sku_sap": 1739913,
+    "sku_vtex": 55705,
     "short_name": "Jugo Variedades 200cc",
     "long_name": "Jugo Ama Manzana Durazno OrgáNico 200cc",
-    "content": {
-      "content_detail": 200,
-      "measure_unit": "ml."
-    },
+    "content_detail": 200,
+    "measure_unit": "ml",
     "brand": "AMA",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7702174083669",
-    "sku": "118742",
-    "sap": "1940039",
+    "ean": 7,
+    "sku_sap": 1940039,
+    "sku_vtex": 118742,
     "short_name": "Gusanos Acidos",
     "long_name": "Gusanos Acidos 30 X 90 Gr",
-    "content": {
-      "content_detail": 90,
-      "measure_unit": "gr."
-    },
+    "content_detail": 90,
+    "measure_unit": "gr",
     "brand": "COSTA",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802200361089",
-    "sku": "16191",
-    "sap": "1612565",
+    "ean": 7,
+    "sku_sap": 1612565,
+    "sku_vtex": 16191,
     "short_name": "Gelatina Frutilla",
     "long_name": "Gelatina En Polvo Ambrosoli Naranja 100g",
-    "content": {
-      "content_detail": 100,
-      "measure_unit": "gr."
-    },
+    "content_detail": 100,
+    "measure_unit": "gr",
     "brand": "AMBROSOLI",
     "category": "ALMACEN",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802200361119",
-    "sku": "16192",
-    "sap": "1612568",
+    "ean": 7,
+    "sku_sap": 1612568,
+    "sku_vtex": 16192,
     "short_name": "Gelatina Naranja",
     "long_name": "Gelatina En Polvo Ambrosoli Frutilla100g",
-    "content": {
-      "content_detail": 100,
-      "measure_unit": "gr."
-    },
+    "content_detail": 100,
+    "measure_unit": "gr",
     "brand": "AMBROSOLI",
     "category": "ALMACEN",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802820700299",
-    "sku": "43942",
-    "sap": "452692",
+    "ean": 7,
+    "sku_sap": 452692,
+    "sku_vtex": 43942,
     "short_name": "Jugo Piña Sin azúcar 200ml",
     "long_name": "Nectar Andina Frut PiñA 200cc",
-    "content": {
-      "content_detail": 200,
-      "measure_unit": "ml."
-    },
+    "content_detail": 200,
+    "measure_unit": "ml",
     "brand": "ANDINA",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801268002033",
-    "sku": "93043",
-    "sap": "1841853",
+    "ean": 7,
+    "sku_sap": 1841853,
+    "sku_vtex": 93043,
     "short_name": "Atun Lomitos en aceite",
     "long_name": "Atun Lomitos Aceite Angelmo 104 Gr Dr",
-    "content": {
-      "content_detail": 104,
-      "measure_unit": "gr."
-    },
+    "content_detail": 104,
+    "measure_unit": "gr",
     "brand": "ANGELMO",
     "category": "ALMACEN",
     "proxy_duration": "Corta",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Conservas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801268002040",
-    "sku": "93044",
-    "sap": "1841854",
+    "ean": 7,
+    "sku_sap": 1841854,
+    "sku_vtex": 93044,
     "short_name": "Atun Lomitos en agua",
     "long_name": "Atun Lomitos Agua Angelmo 104gr Dr",
-    "content": {
-      "content_detail": 104,
-      "measure_unit": "gr."
-    },
+    "content_detail": 104,
+    "measure_unit": "gr",
     "brand": "ANGELMO",
     "category": "ALMACEN",
     "proxy_duration": "Corta",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Conservas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7891991013512",
-    "sku": "63139",
-    "sap": "1690675",
+    "ean": 7,
+    "sku_sap": 1690675,
+    "sku_vtex": 63139,
     "short_name": "Guaraná Zero",
     "long_name": "Bebida Guarana Zero Lata 350cc",
-    "content": {
-      "content_detail": 350,
-      "measure_unit": "ml."
-    },
+    "content_detail": 350,
+    "measure_unit": "ml",
     "brand": "GUARANA ANTARTICA",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7804627650258",
-    "sku": "31524",
-    "sap": "1227188",
+    "ean": 7,
+    "sku_sap": 1227188,
+    "sku_vtex": 31524,
     "short_name": "Hummus",
     "long_name": "Pasta Hummus 220 Gr",
-    "content": {
-      "content_detail": 220,
-      "measure_unit": "gr."
-    },
+    "content_detail": 220,
+    "measure_unit": "gr",
     "brand": "BUKA",
     "category": "COCKTAIL",
     "proxy_duration": "Corta",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802575353047",
-    "sku": "3394",
-    "sap": "590994",
+    "ean": 7,
+    "sku_sap": 590994,
+    "sku_vtex": 3394,
     "short_name": "Pomarola Italiana 200gr",
-    "long_name": "Salsa Pomarola Sachet  Italiana 200 Gr.",
-    "content": {
-      "content_detail": 200,
-      "measure_unit": "gr."
-    },
+    "long_name": "Salsa Pomarola Sachet  Italiana 200 Gr",
+    "content_detail": 200,
+    "measure_unit": "gr",
     "brand": "POMAROLA",
     "category": "ALMACEN",
     "proxy_duration": "Media",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Salsas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "855958006662",
-    "sku": "88596",
-    "sap": "1832240",
+    "ean": 8,
+    "sku_sap": 1832240,
+    "sku_vtex": 88596,
     "short_name": "Churu tuna & salmon",
     "long_name": "Snack Gato Churu Atun Y Salmon 56g",
-    "content": {
-      "content_detail": 56,
-      "measure_unit": "gr."
-    },
+    "content_detail": 56,
+    "measure_unit": "gr",
     "brand": "INABA",
     "category": "MASCOTAS",
     "proxy_duration": "Media",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Mascotas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801610001622",
-    "sku": "391",
-    "sap": "263216",
+    "ean": 7,
+    "sku_sap": 263216,
+    "sku_vtex": 391,
     "short_name": "Coca-Cola Original 1.5lt",
     "long_name": "Bebida Coca Cola Pet 1.5 Lt",
-    "content": {
-      "content_detail": 1500,
-      "measure_unit": "ml."
-    },
+    "content_detail": 1500,
+    "measure_unit": "ml",
     "brand": "COCA COLA",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801610223727",
-    "sku": "532",
-    "sap": "434559",
+    "ean": 7,
+    "sku_sap": 434559,
+    "sku_vtex": 532,
     "short_name": "Sprite Zero 1.5lt",
     "long_name": "Bebida Sprite Zero Pet 1.5lt",
-    "content": {
-      "content_detail": 1500,
-      "measure_unit": "ml."
-    },
+    "content_detail": 1500,
+    "measure_unit": "ml",
     "brand": "SPRITE",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801610350355",
-    "sku": "43762",
-    "sap": "713795",
+    "ean": 7,
+    "sku_sap": 713795,
+    "sku_vtex": 43762,
     "short_name": "Coca-Cola Zero 350ml",
     "long_name": "Bebida Coca Cola Sin Azucar Lata 350cc",
-    "content": {
-      "content_detail": 350,
-      "measure_unit": "ml."
-    },
+    "content_detail": 350,
+    "measure_unit": "ml",
     "brand": "COCA COLA ZERO",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801610350409",
-    "sku": "500",
-    "sap": "713789",
+    "ean": 7,
+    "sku_sap": 713789,
+    "sku_vtex": 500,
     "short_name": "Coca-Cola Zero 1.5 lt",
     "long_name": "Bebida Coca Cola Sin Azucar Pet 1.5lt",
-    "content": {
-      "content_detail": 1500,
-      "measure_unit": "ml."
-    },
+    "content_detail": 1500,
+    "measure_unit": "ml",
     "brand": "COCA COLA ZERO",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801610671030",
-    "sku": "510",
-    "sap": "1095035",
+    "ean": 7,
+    "sku_sap": 1095035,
+    "sku_vtex": 510,
     "short_name": "Fanta zero 1.5lt",
     "long_name": "Fanta Zero Con Vit Des 1.5 Lt",
-    "content": {
-      "content_detail": 1500,
-      "measure_unit": "ml."
-    },
+    "content_detail": 1500,
+    "measure_unit": "ml",
     "brand": "FANTA",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802920009384",
-    "sku": "84612",
-    "sap": "1829954003",
+    "ean": 7,
+    "sku_sap": 1829954003,
+    "sku_vtex": 84612,
     "short_name": "Protein+ pouch frutilla platano",
     "long_name": "Yog Protein Plus Squeeze 150g, Frut-Plat",
-    "content": {
-      "content_detail": 150,
-      "measure_unit": "gr."
-    },
+    "content_detail": 150,
+    "measure_unit": "gr",
     "brand": "COLUN",
     "category": "LACTEOS",
     "proxy_duration": "Corta",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Yogurt",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802920009391",
-    "sku": "84611",
-    "sap": "1829954002",
+    "ean": 7,
+    "sku_sap": 1829954002,
+    "sku_vtex": 84611,
     "short_name": "Protein+ pouch vainilla",
     "long_name": "Yog Protein Plus Squeeze 150g, Vainilla",
-    "content": {
-      "content_detail": 150,
-      "measure_unit": "gr."
-    },
+    "content_detail": 150,
+    "measure_unit": "gr",
     "brand": "COLUN",
     "category": "LACTEOS",
     "proxy_duration": "Corta",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Yogurt",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802920009407",
-    "sku": "84610",
-    "sap": "1829954001",
+    "ean": 7,
+    "sku_sap": 1829954001,
+    "sku_vtex": 84610,
     "short_name": "Protein+ pouch frutilla",
     "long_name": "Yog Protein Plus Squeeze 150g, Frutilla",
-    "content": {
-      "content_detail": 150,
-      "measure_unit": "gr."
-    },
+    "content_detail": 150,
+    "measure_unit": "gr",
     "brand": "COLUN",
     "category": "LACTEOS",
     "proxy_duration": "Corta",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Yogurt",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802920000749",
-    "sku": "10749",
-    "sap": "394383",
+    "ean": 7,
+    "sku_sap": 394383,
+    "sku_vtex": 10749,
     "short_name": "Quesillo 320g",
     "long_name": "Quesillo Colun Pote 320gr",
-    "content": {
-      "content_detail": 320,
-      "measure_unit": "gr."
-    },
+    "content_detail": 320,
+    "measure_unit": "gr",
     "brand": "COLUN",
     "category": "QUESERÍA",
     "proxy_duration": "Media",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Lácteos",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802920008110",
-    "sku": "45790",
-    "sap": "1727825",
+    "ean": 7,
+    "sku_sap": 1727825,
+    "sku_vtex": 45790,
     "short_name": "Colun Capuchino",
     "long_name": "Leche Colun Capuccino Prisma 330ml",
-    "content": {
-      "content_detail": 330,
-      "measure_unit": "ml."
-    },
+    "content_detail": 330,
+    "measure_unit": "ml",
     "brand": "COLUN",
     "category": "LACTEOS",
     "proxy_duration": "Media",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Leches",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802920008141",
-    "sku": "45791",
-    "sap": "1727827",
+    "ean": 7,
+    "sku_sap": 1727827,
+    "sku_vtex": 45791,
     "short_name": "Light Café Cappuccino",
     "long_name": "Leche Colun Light Capuccino Prisma 330ml",
-    "content": {
-      "content_detail": 330,
-      "measure_unit": "ml."
-    },
+    "content_detail": 330,
+    "measure_unit": "ml",
     "brand": "COLUN",
     "category": "LACTEOS",
     "proxy_duration": "Media",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Leches",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802920203300",
-    "sku": "6870",
-    "sap": "302949",
+    "ean": 7,
+    "sku_sap": 302949,
+    "sku_vtex": 6870,
     "short_name": "Mantequilla con Sal 250gr",
     "long_name": "Mantequilla Colun C/Sal Pan 250 Gr",
-    "content": {
-      "content_detail": 250,
-      "measure_unit": "gr."
-    },
+    "content_detail": 250,
+    "measure_unit": "gr",
     "brand": "COLUN",
     "category": "LACTEOS",
     "proxy_duration": "Media",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Lácteos",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802215121258",
-    "sku": "3642",
-    "sap": "1083962",
+    "ean": 7,
+    "sku_sap": 1083962,
+    "sku_vtex": 3642,
     "short_name": "Chocolate Rolls Crocante 150gr",
     "long_name": "Chocolate Costa Rolls Crocante 150 Gr",
-    "content": {
-      "content_detail": 150,
-      "measure_unit": "gr."
-    },
+    "content_detail": 150,
+    "measure_unit": "gr",
     "brand": "COSTA",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802215615085",
-    "sku": "2611",
-    "sap": "1617342",
+    "ean": 7,
+    "sku_sap": 1617342,
+    "sku_vtex": 2611,
     "short_name": "Crackelet tripack 255gr",
     "long_name": "Gall Costa Crackelet Tripack 255 Grs",
-    "content": {
-      "content_detail": 255,
-      "measure_unit": "gr."
-    },
+    "content_detail": 255,
+    "measure_unit": "gr",
     "brand": "COSTA",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
     "pack": [
-      "3"
+      3
     ],
     "aisle": "Salado",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7804000003145",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 7,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Barra Low Carb",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": null,
-      "measure_unit": "No Encontrado"
-    },
+    "content_detail": null,
+    "measure_unit": "No Encontrado",
     "brand": "No Encontrado",
     "category": "No Encontrado",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802420510113",
-    "sku": "3583",
-    "sap": "889209",
+    "ean": 7,
+    "sku_sap": 889209,
+    "sku_vtex": 3583,
     "short_name": "Palmitos enteros",
     "long_name": "Palmitos Enteros Esmeralda 220 Gr Dr",
-    "content": {
-      "content_detail": 220,
-      "measure_unit": "gr."
-    },
+    "content_detail": 220,
+    "measure_unit": "gr",
     "brand": "ESMERALDA",
     "category": "ALMACEN",
     "proxy_duration": "Corta",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Conservas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802000014116",
-    "sku": "No Encontrado",
-    "sap": "1841892",
+    "ean": 7,
+    "sku_sap": 1841892,
+    "sku_vtex": null,
     "short_name": "Ramitas original 250g",
     "long_name": "*Ramitas Evercrisp Sal 250 Gr",
-    "content": {
-      "content_detail": 250,
-      "measure_unit": "gr."
-    },
+    "content_detail": 250,
+    "measure_unit": "gr",
     "brand": "EVERCRISP",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Salado",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802000014123",
-    "sku": "No Encontrado",
-    "sap": "1841891",
+    "ean": 7,
+    "sku_sap": 1841891,
+    "sku_vtex": null,
     "short_name": "Ramitas Queso 250gr",
     "long_name": "*Ramitas Evercrisp Queso 250 Gr",
-    "content": {
-      "content_detail": 250,
-      "measure_unit": "gr."
-    },
+    "content_detail": 250,
+    "measure_unit": "gr",
     "brand": "EVERCRISP",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Salado",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802000015168",
-    "sku": "97820",
-    "sap": "1860068",
+    "ean": 7,
+    "sku_sap": 1860068,
+    "sku_vtex": 97820,
     "short_name": "De Todito Queso 120g",
     "long_name": "Detodito Ii Evercrisp 120 G",
-    "content": {
-      "content_detail": 120,
-      "measure_unit": "gr."
-    },
+    "content_detail": 120,
+    "measure_unit": "gr",
     "brand": "EVERCRISP",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Salado",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802000016448",
-    "sku": "118865",
-    "sap": "1939087",
+    "ean": 7,
+    "sku_sap": 1939087,
+    "sku_vtex": 118865,
     "short_name": "De Todito Original 120g",
     "long_name": "Detodito I Evercrisp 120gr",
-    "content": {
-      "content_detail": 120,
-      "measure_unit": "gr."
-    },
+    "content_detail": 120,
+    "measure_unit": "gr",
     "brand": "EVERCRISP",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Salado",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7898591453274",
-    "sku": "55478",
-    "sap": "1716206",
+    "ean": 7,
+    "sku_sap": 1716206,
+    "sku_vtex": 55478,
     "short_name": "Gusanos Ácidos 90gr",
     "long_name": "Gomitas Gusanos Acidos Fini 90 Gr",
-    "content": {
-      "content_detail": 90,
-      "measure_unit": "gr."
-    },
+    "content_detail": 90,
+    "measure_unit": "gr",
     "brand": "FINI",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7908228801726",
-    "sku": "92901",
-    "sap": "1854955",
+    "ean": 7,
+    "sku_sap": 1854955,
+    "sku_vtex": 92901,
     "short_name": "Tubos dulces acidos",
     "long_name": "Regaliz Pocket Frutilla Acida Fini 30g",
-    "content": {
-      "content_detail": 30,
-      "measure_unit": "gr."
-    },
+    "content_detail": 30,
+    "measure_unit": "gr",
     "brand": "FINI",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7908228801764",
-    "sku": "No Encontrado",
-    "sap": "1854953",
-    "short_name": "Gusanos ácidos pequño",
+    "ean": 7,
+    "sku_sap": 1854953,
+    "sku_vtex": null,
+    "short_name": "Gusanos Acidos 40 g",
     "long_name": "Gomitas Pocket Gusanos Acidos Fini 40g",
-    "content": {
-      "content_detail": 40,
-      "measure_unit": "gr."
-    },
+    "content_detail": 40,
+    "measure_unit": "gr",
     "brand": "FINI",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7803480001078",
-    "sku": "53983",
-    "sap": "1734667",
+    "ean": 7,
+    "sku_sap": 1734667,
+    "sku_vtex": 53983,
     "short_name": "Pan Molde Multigrano",
     "long_name": "Pan Molde Multigrano Fuchs 380g",
-    "content": {
-      "content_detail": 380,
-      "measure_unit": "gr."
-    },
+    "content_detail": 380,
+    "measure_unit": "gr",
     "brand": "FUCHS",
     "category": "PANIFICADOS",
     "proxy_duration": "Corta",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Panadería",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7804097011016",
-    "sku": "5694",
-    "sap": "260695",
+    "ean": 7,
+    "sku_sap": 260695,
+    "sku_vtex": 5694,
     "short_name": "Ensalada Toscana 300gr",
     "long_name": "Ens Toscana 300 Gr Genial",
-    "content": {
-      "content_detail": 300,
-      "measure_unit": "gr."
-    },
+    "content_detail": 300,
+    "measure_unit": "gr",
     "brand": "GENIAL",
     "category": "FRUTAS Y VERDURAS",
     "proxy_duration": "Corta",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Preparados",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "632432333304",
-    "sku": "89191",
-    "sap": "1822559",
+    "ean": 6,
+    "sku_sap": 1822559,
+    "sku_vtex": 89191,
     "short_name": "Yerba Mate Orgánico Cranberry 355ml",
     "long_name": "Guayaki Yerba Mate Organico Cranber355cc",
-    "content": {
-      "content_detail": 355,
-      "measure_unit": "ml."
-    },
+    "content_detail": 355,
+    "measure_unit": "ml",
     "brand": "GUAYAKI",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7803200804132",
-    "sku": "2761",
-    "sap": "780299",
-    "short_name": "Mayonesa Regular Doypack 372gr.",
+    "ean": 7,
+    "sku_sap": 780299,
+    "sku_vtex": 2761,
+    "short_name": "Mayonesa Regular Doypack 372gr",
     "long_name": "Mayonesa Hellmann'S 372 Gr",
-    "content": {
-      "content_detail": 372,
-      "measure_unit": "gr."
-    },
+    "content_detail": 372,
+    "measure_unit": "gr",
     "brand": "HELLMANN`S",
     "category": "COCKTAIL",
     "proxy_duration": "Media",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801610230510",
-    "sku": "511",
-    "sap": "1422206",
+    "ean": 7,
+    "sku_sap": 1422206,
+    "sku_vtex": 511,
     "short_name": "Inca Kola 1,5lt",
     "long_name": "Bebida Inca Kola Zero 1.5 Lt",
-    "content": {
-      "content_detail": 1500,
-      "measure_unit": "ml."
-    },
+    "content_detail": 1500,
+    "measure_unit": "ml",
     "brand": "INCA KOLA",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801610277829",
-    "sku": "102515",
-    "sap": "1874913",
+    "ean": 7,
+    "sku_sap": 1874913,
+    "sku_vtex": 102515,
     "short_name": "Inca Kola 350ml",
     "long_name": "Bebida Inca Kola Lata 350cc",
-    "content": {
-      "content_detail": 350,
-      "measure_unit": "ml."
-    },
+    "content_detail": 350,
+    "measure_unit": "ml",
     "brand": "INCA KOLA",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7750526000178",
-    "sku": "3003",
-    "sap": "1027095",
+    "ean": 7,
+    "sku_sap": 1027095,
+    "sku_vtex": 3003,
     "short_name": "Platano ducle frio",
     "long_name": "Platano Frito Inka Chips Dulce 100g",
-    "content": {
-      "content_detail": 100,
-      "measure_unit": "gr."
-    },
+    "content_detail": 100,
+    "measure_unit": "gr",
     "brand": "JUMBO IMPO",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7750526000017",
-    "sku": "2998",
-    "sap": "1027099",
+    "ean": 7,
+    "sku_sap": 1027099,
+    "sku_vtex": 2998,
     "short_name": "Inka Corn Original",
     "long_name": "Maiz Gigante Inka Corn Original 100g",
-    "content": {
-      "content_detail": 100,
-      "measure_unit": "gr."
-    },
+    "content_detail": 100,
+    "measure_unit": "gr",
     "brand": "JUMBO IMPO",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7750526000031",
-    "sku": "3006",
-    "sap": "1027100",
+    "ean": 7,
+    "sku_sap": 1027100,
+    "sku_vtex": 3006,
     "short_name": "Inka Corn Chile Picante",
     "long_name": "Maiz Gigante Inka Corn Picante 100g",
-    "content": {
-      "content_detail": 100,
-      "measure_unit": "gr."
-    },
+    "content_detail": 100,
+    "measure_unit": "gr",
     "brand": "JUMBO IMPO",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802640600397",
-    "sku": "2640",
-    "sap": "506435",
+    "ean": 7,
+    "sku_sap": 506435,
+    "sku_vtex": 2640,
     "short_name": "Ketchup Doypack 500 gr",
-    "long_name": "Ketchup J.B. Doy-Pack 500 Gr.",
-    "content": {
-      "content_detail": 500,
-      "measure_unit": "gr."
-    },
+    "long_name": "Ketchup J.B. Doy-Pack 500 Gr",
+    "content_detail": 500,
+    "measure_unit": "gr",
     "brand": "JB",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "2498832019907",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 2,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Yogur Granola Mango/Frambuesa",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": null,
-      "measure_unit": "No Encontrado"
-    },
+    "content_detail": null,
+    "measure_unit": "No Encontrado",
     "brand": "No Encontrado",
     "category": "No Encontrado",
     "proxy_duration": "Corta",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801620852580",
-    "sku": "53996",
-    "sap": "263316",
+    "ean": 7,
+    "sku_sap": 263316,
+    "sku_vtex": 53996,
     "short_name": "Kem Piña 350ml",
     "long_name": "Bebida Kem PiñA Lata 350cc",
-    "content": {
-      "content_detail": 350,
-      "measure_unit": "ml."
-    },
+    "content_detail": 350,
+    "measure_unit": "ml",
     "brand": "KEM",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7804674980032",
-    "sku": "No Encontrado",
-    "sap": "1952426",
+    "ean": 7,
+    "sku_sap": 1952426,
+    "sku_vtex": null,
     "short_name": "Guaraná Blended",
     "long_name": "Kiway Energy",
-    "content": {
-      "content_detail": 250,
-      "measure_unit": "ml."
-    },
+    "content_detail": 250,
+    "measure_unit": "ml",
     "brand": "KIWAY",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7804674980049",
-    "sku": "No Encontrado",
-    "sap": "1952425",
+    "ean": 7,
+    "sku_sap": 1952425,
+    "sku_vtex": null,
     "short_name": "Guaraná One",
     "long_name": "Kiway Premium Energy",
-    "content": {
-      "content_detail": 250,
-      "measure_unit": "ml."
-    },
+    "content_detail": 250,
+    "measure_unit": "ml",
     "brand": "KIWAY",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7804665370262",
-    "sku": "122525",
-    "sap": "1927409",
+    "ean": 7,
+    "sku_sap": 1927409,
+    "sku_vtex": 122525,
     "short_name": "Kombucha Arandano",
     "long_name": "Kombuchacha Cero Arandano Lata 355ml",
-    "content": {
-      "content_detail": 350,
-      "measure_unit": "ml."
-    },
+    "content_detail": 350,
+    "measure_unit": "ml",
     "brand": "KOMBUCHACHA",
     "category": "LACTEOS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7804665370293",
-    "sku": "122645",
-    "sap": "1927412",
+    "ean": 7,
+    "sku_sap": 1927412,
+    "sku_vtex": 122645,
     "short_name": "Kombucha original",
     "long_name": "Kombuchacha Cero Original Lata 355ml",
-    "content": {
-      "content_detail": 350,
-      "measure_unit": "ml."
-    },
+    "content_detail": 350,
+    "measure_unit": "ml",
     "brand": "KOMBUCHACHA",
     "category": "LACTEOS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7804665370309",
-    "sku": "122644",
-    "sap": "1927411",
+    "ean": 7,
+    "sku_sap": 1927411,
+    "sku_vtex": 122644,
     "short_name": "Kombucha Te verde",
     "long_name": "Kombuchacha Cero Te Verde Lata 355ml",
-    "content": {
-      "content_detail": 350,
-      "measure_unit": "ml."
-    },
+    "content_detail": 350,
+    "measure_unit": "ml",
     "brand": "KOMBUCHACHA",
     "category": "LACTEOS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802800533589",
-    "sku": "3025",
-    "sap": "1578088",
+    "ean": 7,
+    "sku_sap": 1578088,
+    "sku_vtex": 3025,
     "short_name": "Kryzpo Crema Cebolla 130g",
     "long_name": "Papas Kryzpo Crema Cebolla 130 Gr",
-    "content": {
-      "content_detail": 140,
-      "measure_unit": "gr."
-    },
+    "content_detail": 140,
+    "measure_unit": "gr",
     "brand": "KRYZPO",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Salado",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802800535583",
-    "sku": "14508",
-    "sap": "1567602",
-    "short_name": "Papas fritas cebolla chicas",
+    "ean": 7,
+    "sku_sap": 1567602,
+    "sku_vtex": 14508,
+    "short_name": "Papas Fritas Crema Cebolla 37gr",
     "long_name": "Papas Kryzpo Crema Cebolla 37 Gr",
-    "content": {
-      "content_detail": 40,
-      "measure_unit": "gr."
-    },
+    "content_detail": 40,
+    "measure_unit": "gr",
     "brand": "KRYZPO",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Salado",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802800533565",
-    "sku": "3026",
-    "sap": "1578086",
+    "ean": 7,
+    "sku_sap": 1578086,
+    "sku_vtex": 3026,
     "short_name": "Papas Fritas Original 130gr",
     "long_name": "Papas Kryzpo Original 130 Gr",
-    "content": {
-      "content_detail": 140,
-      "measure_unit": "gr."
-    },
+    "content_detail": 140,
+    "measure_unit": "gr",
     "brand": "KRYZPO",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Salado",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802800535569",
-    "sku": "3033",
-    "sap": "1567600",
+    "ean": 7,
+    "sku_sap": 1567600,
+    "sku_vtex": 3033,
     "short_name": "Papas Fritas Original 37gr",
     "long_name": "Papas Kryzpo Original 37 Gr",
-    "content": {
-      "content_detail": 40,
-      "measure_unit": "gr."
-    },
+    "content_detail": 40,
+    "measure_unit": "gr",
     "brand": "KRYZPO",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Salado",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801916031538",
-    "sku": "98279",
-    "sap": "1859903",
+    "ean": 7,
+    "sku_sap": 1859903,
+    "sku_vtex": 98279,
     "short_name": "Jamón Pierna 125gr",
     "long_name": "Jamon Pierna Cp La Preferida 125 Gr",
-    "content": {
-      "content_detail": 125,
-      "measure_unit": "gr."
-    },
+    "content_detail": 125,
+    "measure_unit": "gr",
     "brand": "LA PREFERIDA",
     "category": "FIAMBRERIA",
     "proxy_duration": "Corta",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Fiambres",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "40000536789",
-    "sku": "55332",
-    "sap": "1656332",
+    "ean": 40000536789,
+    "sku_sap": 1656332,
+    "sku_vtex": 55332,
     "short_name": "M&M Maní",
     "long_name": "M&M'S Singles Peanut 49g",
-    "content": {
-      "content_detail": 49,
-      "measure_unit": "gr."
-    },
+    "content_detail": 49,
+    "measure_unit": "gr",
     "brand": "M&M",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "40000536819",
-    "sku": "55331",
-    "sap": "1656331",
-    "short_name": "&M Chocolate",
+    "ean": 40000536819,
+    "sku_sap": 1656331,
+    "sku_vtex": 55331,
+    "short_name": "M&M Chocolate 48g",
     "long_name": "M&M'S Singles Milk Choc 48gr",
-    "content": {
-      "content_detail": 48,
-      "measure_unit": "gr."
-    },
+    "content_detail": 48,
+    "measure_unit": "gr",
     "brand": "M&M",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802420127106",
-    "sku": "2563",
-    "sap": "754547",
+    "ean": 7,
+    "sku_sap": 754547,
+    "sku_vtex": 2563,
     "short_name": "Fruits & Nuts Bora bora",
     "long_name": "Mix Marco Polo Bora Bora 80gr",
-    "content": {
-      "content_detail": 80,
-      "measure_unit": "gr."
-    },
+    "content_detail": 80,
+    "measure_unit": "gr",
     "brand": "MARCO POLO",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Snack Salado",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802420127151",
-    "sku": "2575",
-    "sap": "1255446",
+    "ean": 7,
+    "sku_sap": 1255446,
+    "sku_vtex": 2575,
     "short_name": "Fruits & nuts Maui",
     "long_name": "Mix Frutos Secos Marco Polo Morado 80 Gr",
-    "content": {
-      "content_detail": 80,
-      "measure_unit": "gr."
-    },
+    "content_detail": 80,
+    "measure_unit": "gr",
     "brand": "MARCO POLO",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Snack Salado",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7803473005885",
-    "sku": "121642",
-    "sap": "1938686",
+    "ean": 7,
+    "sku_sap": 1938686,
+    "sku_vtex": 121642,
     "short_name": "Mankeke pack 4 un",
     "long_name": "Mankeke 4p 120g Cajilla Mla",
-    "content": {
-      "content_detail": 120,
-      "measure_unit": "gr."
-    },
+    "content_detail": 120,
+    "measure_unit": "gr",
     "brand": "MARINELA",
     "category": "PASTELERIA",
     "proxy_duration": "Media",
     "pack": [
-      "4"
+      4
     ],
     "aisle": "Panadería",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7803473241214",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
-    "short_name": "Mankeke un.",
+    "ean": 7,
+    "sku_sap": null,
+    "sku_vtex": null,
+    "short_name": "Mankeke un",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": null,
-      "measure_unit": "No Encontrado"
-    },
+    "content_detail": null,
+    "measure_unit": "No Encontrado",
     "brand": "No Encontrado",
     "category": "No Encontrado",
     "proxy_duration": "Media",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Panadería",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "41789001918",
-    "sku": "2401",
-    "sap": "265531",
+    "ean": 41789001918,
+    "sku_sap": 265531,
+    "sku_vtex": 2401,
     "short_name": "Maruchan Pollo 64g",
     "long_name": "Comida Inst Maruchan Pollo 64gr",
-    "content": {
-      "content_detail": 64,
-      "measure_unit": "gr."
-    },
+    "content_detail": 64,
+    "measure_unit": "gr",
     "brand": "MARUCHAN",
     "category": "ALMACEN",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Compotas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802575531728",
-    "sku": "8378",
-    "sap": "1448698",
+    "ean": 7,
+    "sku_sap": 1448698,
+    "sku_vtex": 8378,
     "short_name": "Sachet p/perro sabor pollo",
     "long_name": "Alim Hum Master Dog Retortable Pollo100",
-    "content": {
-      "content_detail": 100,
-      "measure_unit": "gr."
-    },
+    "content_detail": 100,
+    "measure_unit": "gr",
     "brand": "MASTERDOG",
     "category": "MASCOTAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Mascotas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802575531759",
-    "sku": "8377",
-    "sap": "1448699",
+    "ean": 7,
+    "sku_sap": 1448699,
+    "sku_vtex": 8377,
     "short_name": "Sachet p/perro sabor carne",
     "long_name": "Alim Hum Master Dog Retortable Carne100",
-    "content": {
-      "content_detail": 100,
-      "measure_unit": "gr."
-    },
+    "content_detail": 100,
+    "measure_unit": "gr",
     "brand": "MASTERDOG",
     "category": "MASCOTAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Mascotas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802230086952",
-    "sku": "4071",
-    "sap": "498204001",
+    "ean": 7,
+    "sku_sap": 498204001,
+    "sku_vtex": 4071,
     "short_name": "Galleta Tritón Vainilla 126gr",
     "long_name": "Galleta Triton Mckay 126gr, Vainilla",
-    "content": {
-      "content_detail": 130,
-      "measure_unit": "gr."
-    },
+    "content_detail": 130,
+    "measure_unit": "gr",
     "brand": "MC KAY",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7804646450020",
-    "sku": "3874",
-    "sap": "1469339",
+    "ean": 7,
+    "sku_sap": 1469339,
+    "sku_vtex": 3874,
     "short_name": "Galletas Arroz Chocolate 20g",
     "long_name": "Galletas De Arroz Mizos Chocolate 20grs",
-    "content": {
-      "content_detail": 20,
-      "measure_unit": "gr."
-    },
+    "content_detail": 20,
+    "measure_unit": "gr",
     "brand": "MIZOS",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "70847009511",
-    "sku": "14",
-    "sap": "1430852",
+    "ean": 70847009511,
+    "sku_sap": 1430852,
+    "sku_vtex": 14,
     "short_name": "Monster Regular 473ml",
     "long_name": "Bebida Monster Energy 473cc",
-    "content": {
-      "content_detail": 473,
-      "measure_unit": "ml."
-    },
+    "content_detail": 473,
+    "measure_unit": "ml",
     "brand": "MONSTER",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "70847033219",
-    "sku": "74251",
-    "sap": "1789795",
+    "ean": 70847033219,
+    "sku_sap": 1789795,
+    "sku_vtex": 74251,
     "short_name": "Monster Sin Azúcar 473ml",
     "long_name": "Beb Ener Monster Abs Zero Lata 473 Cc",
-    "content": {
-      "content_detail": 473,
-      "measure_unit": "ml."
-    },
+    "content_detail": 473,
+    "measure_unit": "ml",
     "brand": "MONSTER",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7702084137520",
-    "sku": "15593",
-    "sap": "271089",
+    "ean": 7,
+    "sku_sap": 271089,
+    "sku_vtex": 15593,
     "short_name": "Harina Pan 1kg",
     "long_name": "Harina De MaíZ P.A.N. Blanca 1 Kg",
-    "content": {
-      "content_detail": 1000,
-      "measure_unit": "gr."
-    },
+    "content_detail": 1000,
+    "measure_unit": "gr",
     "brand": "P.AN",
     "category": "ALMACEN",
     "proxy_duration": "Media",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7622201797560",
-    "sku": "102411",
-    "sap": "1875096",
+    "ean": 7,
+    "sku_sap": 1875096,
+    "sku_vtex": 102411,
     "short_name": "Queso Crema Original",
     "long_name": "Queso Philadelphia Crema 180 Gr",
-    "content": {
-      "content_detail": 180,
-      "measure_unit": "gr."
-    },
+    "content_detail": 180,
+    "measure_unit": "gr",
     "brand": "PHILADELPHIA",
     "category": "QUESERÍA",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7804660620010",
-    "sku": "14527",
-    "sap": "1667491",
+    "ean": 7,
+    "sku_sap": 1667491,
+    "sku_vtex": 14527,
     "short_name": "Popcorn Oliva sal de mar 15gr",
     "long_name": "Cabritas Puripop Oliva Sal De Mar 13g",
-    "content": {
-      "content_detail": 13,
-      "measure_unit": "gr."
-    },
+    "content_detail": 13,
+    "measure_unit": "gr",
     "brand": "PURIPOP",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7804660620379",
-    "sku": "118090",
-    "sap": "1932465",
+    "ean": 7,
+    "sku_sap": 1932465,
+    "sku_vtex": 118090,
     "short_name": "Ramitas de garbanzo queso",
     "long_name": "Puri Ramitas Queso Puripop 35 Gr",
-    "content": {
-      "content_detail": 35,
-      "measure_unit": "gr."
-    },
+    "content_detail": 35,
+    "measure_unit": "gr",
     "brand": "PURIPOP",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802000003707",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 7,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Barra colación avena chips de cacao",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": null,
-      "measure_unit": "No Encontrado"
-    },
+    "content_detail": null,
+    "measure_unit": "No Encontrado",
     "brand": "No Encontrado",
     "category": "No Encontrado",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802000005824",
-    "sku": "4153",
-    "sap": "1220370",
+    "ean": 7,
+    "sku_sap": 1220370,
+    "sku_vtex": 4153,
     "short_name": "Galleton Casero Arándano rojo",
     "long_name": "Galleton Quaker Avena Arandanos 40 Gr",
-    "content": {
-      "content_detail": 40,
-      "measure_unit": "gr."
-    },
+    "content_detail": 40,
+    "measure_unit": "gr",
     "brand": "QUAKER",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802000005831",
-    "sku": "4154",
-    "sap": "1220369",
+    "ean": 7,
+    "sku_sap": 1220369,
+    "sku_vtex": 4154,
     "short_name": "Galletón Casero Chocolate",
     "long_name": "Galleton Quaker Avena Chispas Choc 40 Gr",
-    "content": {
-      "content_detail": 40,
-      "measure_unit": "gr."
-    },
+    "content_detail": 40,
+    "measure_unit": "gr",
     "brand": "QUAKER",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801930021195",
-    "sku": "98939",
-    "sap": "1871181",
+    "ean": 7,
+    "sku_sap": 1871181,
+    "sku_vtex": 98939,
     "short_name": "Mini Chorizo",
     "long_name": "Snack Mini Chorizo Receta Del Abuelo 60g",
-    "content": {
-      "content_detail": 60,
-      "measure_unit": "gr."
-    },
+    "content_detail": 60,
+    "measure_unit": "gr",
     "brand": "RECETA ABUELO",
     "category": "FIAMBRERIA",
     "proxy_duration": "Corta",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801930021218",
-    "sku": "98942",
-    "sap": "1871182",
+    "ean": 7,
+    "sku_sap": 1871182,
+    "sku_vtex": 98942,
     "short_name": "MIni salamini",
     "long_name": "Snack Mini Salamini Rec Del Abuelo 60g",
-    "content": {
-      "content_detail": 60,
-      "measure_unit": "gr."
-    },
+    "content_detail": 60,
+    "measure_unit": "gr",
     "brand": "RECETA ABUELO",
     "category": "FIAMBRERIA",
     "proxy_duration": "Corta",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "9002490100070",
-    "sku": "443",
-    "sap": "448612",
+    "ean": 9,
+    "sku_sap": 448612,
+    "sku_vtex": 443,
     "short_name": "Redbull 250ml",
     "long_name": "Bebida Energ Red Bull  Lata 250cc",
-    "content": {
-      "content_detail": 250,
-      "measure_unit": "ml."
-    },
+    "content_detail": 250,
+    "measure_unit": "ml",
     "brand": "RED BULL",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "9002490214852",
-    "sku": "444",
-    "sap": "1052135",
+    "ean": 9,
+    "sku_sap": 1052135,
+    "sku_vtex": 444,
     "short_name": "Redbull Light 250ml",
     "long_name": "Beb Energ Red Bull Sugar Free 250cc",
-    "content": {
-      "content_detail": 250,
-      "measure_unit": "ml."
-    },
+    "content_detail": 250,
+    "measure_unit": "ml",
     "brand": "RED BULL",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801907014212",
-    "sku": "121126",
-    "sap": "1947039",
+    "ean": 7,
+    "sku_sap": 1947039,
+    "sku_vtex": 121126,
     "short_name": "Chorizo Sureño 400gr",
     "long_name": "Chorizo SureñO Premium San Jorge 400gr",
-    "content": {
-      "content_detail": 400,
-      "measure_unit": "gr."
-    },
+    "content_detail": 400,
+    "measure_unit": "gr",
     "brand": "SAN JORGE",
     "category": "FIAMBRERIA",
     "proxy_duration": "Corta",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802225683050",
-    "sku": "2607",
-    "sap": "1607113",
+    "ean": 7,
+    "sku_sap": 1607113,
+    "sku_vtex": 2607,
     "short_name": "Selz Horneada Salada clásica",
     "long_name": "Galleta Mini Selz Clasica 35 Gr",
-    "content": {
-      "content_detail": 35,
-      "measure_unit": "gr."
-    },
+    "content_detail": 35,
+    "measure_unit": "gr",
     "brand": "ARCOR",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Salado",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7804668080120",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 7,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Energy Balls nuez almendra",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": null,
-      "measure_unit": "No Encontrado"
-    },
+    "content_detail": null,
+    "measure_unit": "No Encontrado",
     "brand": "No Encontrado",
     "category": "No Encontrado",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7613035953949",
-    "sku": "No Encontrado",
-    "sap": "1684278",
+    "ean": 7,
+    "sku_sap": 1684278,
+    "sku_vtex": null,
     "short_name": "Sémola Caramelo Soprole 140gr",
     "long_name": "Semola C/Leche Nestle C/Cuch Caram 135gr",
-    "content": {
-      "content_detail": 135,
-      "measure_unit": "gr."
-    },
+    "content_detail": 135,
+    "measure_unit": "gr",
     "brand": "NESTLE",
     "category": "LACTEOS",
     "proxy_duration": "Corta",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Yogurt",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802900001162",
-    "sku": "10804",
-    "sap": "550825",
+    "ean": 7,
+    "sku_sap": 550825,
+    "sku_vtex": 10804,
     "short_name": "Queso Gauda Laminado 250gr",
     "long_name": "Queso Gauda Soprole Lam 250g",
-    "content": {
-      "content_detail": 250,
-      "measure_unit": "gr."
-    },
+    "content_detail": 250,
+    "measure_unit": "gr",
     "brand": "DOS ALAMOS",
     "category": "QUESERÍA",
     "proxy_duration": "Media",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802900001520",
-    "sku": "65512",
-    "sap": "1769552",
+    "ean": 7,
+    "sku_sap": 1769552,
+    "sku_vtex": 65512,
     "short_name": "Leche Protein Chocolate 200ml",
     "long_name": "Leche Proteina Soprole Chocolate 200 Ml",
-    "content": {
-      "content_detail": 200,
-      "measure_unit": "ml."
-    },
+    "content_detail": 200,
+    "measure_unit": "ml",
     "brand": "SOPROLE",
     "category": "LACTEOS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Leches",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802900003234",
-    "sku": "117962",
-    "sap": "1875068004",
+    "ean": 7,
+    "sku_sap": 1875068004,
+    "sku_vtex": 117962,
     "short_name": "Protein+ semillas zapallo nueces 150g",
     "long_name": "Yog+Cereal Soprole 1+1 Protei, Sem&Pasas",
-    "content": {
-      "content_detail": 150,
-      "measure_unit": "gr."
-    },
+    "content_detail": 150,
+    "measure_unit": "gr",
     "brand": "SOPROLE",
     "category": "LACTEOS",
     "proxy_duration": "Media",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Yogurt",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802900105013",
-    "sku": "6648",
-    "sap": "302513",
+    "ean": 7,
+    "sku_sap": 302513,
+    "sku_vtex": 6648,
     "short_name": "Crema de leche espesa",
     "long_name": "Crema Soprole Espesa Cj 200 Ml",
-    "content": {
-      "content_detail": 200,
-      "measure_unit": "ml."
-    },
+    "content_detail": 200,
+    "measure_unit": "ml",
     "brand": "SOPROLE",
     "category": "LACTEOS",
     "proxy_duration": "Media",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802820600100",
-    "sku": "307",
-    "sap": "491215",
+    "ean": 7,
+    "sku_sap": 491215,
+    "sku_vtex": 307,
     "short_name": "Agua con Gas 600ml",
     "long_name": "Agua Min Vital C/G Des 600cc",
-    "content": {
-      "content_detail": 600,
-      "measure_unit": "ml."
-    },
+    "content_detail": 600,
+    "measure_unit": "ml",
     "brand": "VITAL",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802820600209",
-    "sku": "336",
-    "sap": "491216",
+    "ean": 7,
+    "sku_sap": 491216,
+    "sku_vtex": 336,
     "short_name": "Agua sin Gas 600ml",
     "long_name": "Agua Mineral Vital S/Gas 600",
-    "content": {
-      "content_detail": 600,
-      "measure_unit": "ml."
-    },
+    "content_detail": 600,
+    "measure_unit": "ml",
     "brand": "VITAL",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802200270015",
-    "sku": "2524",
-    "sap": "1468044",
+    "ean": 7,
+    "sku_sap": 1468044,
+    "sku_vtex": 2524,
     "short_name": "Compota durazno 90gr",
     "long_name": "Compota Mifrut Durazno 90 Gr",
-    "content": {
-      "content_detail": 90,
-      "measure_unit": "gr."
-    },
+    "content_detail": 90,
+    "measure_unit": "gr",
     "brand": "VIVO",
     "category": "ALMACEN",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Compotas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802200270022",
-    "sku": "2525",
-    "sap": "1468043",
+    "ean": 7,
+    "sku_sap": 1468043,
+    "sku_vtex": 2525,
     "short_name": "Compota Manzana 90gr",
     "long_name": "Compota Mifrut Manzana 90 Gr",
-    "content": {
-      "content_detail": 90,
-      "measure_unit": "gr."
-    },
+    "content_detail": 90,
+    "measure_unit": "gr",
     "brand": "VIVO",
     "category": "ALMACEN",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Compotas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802200270039",
-    "sku": "2526",
-    "sap": "1468045",
+    "ean": 7,
+    "sku_sap": 1468045,
+    "sku_vtex": 2526,
     "short_name": "Compota Pera 90gr",
     "long_name": "Compota Mifrut Pera 90 Gr",
-    "content": {
-      "content_detail": 90,
-      "measure_unit": "gr."
-    },
+    "content_detail": 90,
+    "measure_unit": "gr",
     "brand": "VIVO",
     "category": "ALMACEN",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Compotas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802810010193",
-    "sku": "16476",
-    "sap": "1651386",
+    "ean": 7,
+    "sku_sap": 1651386,
+    "sku_vtex": 16476,
     "short_name": "Mermelada Frutilla s/azucar 250gr",
     "long_name": "Mermelada Watt'S S/Az Frutilla 200g",
-    "content": {
-      "content_detail": 200,
-      "measure_unit": "gr."
-    },
+    "content_detail": 200,
+    "measure_unit": "gr",
     "brand": "WATT S",
     "category": "ALMACEN",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Compotas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7797453000413",
-    "sku": "8399",
-    "sap": "1026770",
+    "ean": 7,
+    "sku_sap": 1026770,
+    "sku_vtex": 8399,
     "short_name": "Sachet p/gato sabor salmón",
     "long_name": "Alim Gato Whiskas Sobre Salmon 85 Grs",
-    "content": {
-      "content_detail": 85,
-      "measure_unit": "gr."
-    },
+    "content_detail": 85,
+    "measure_unit": "gr",
     "brand": "WHISKAS",
     "category": "MASCOTAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Mascotas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7797453000420",
-    "sku": "8396",
-    "sap": "1026771",
+    "ean": 7,
+    "sku_sap": 1026771,
+    "sku_vtex": 8396,
     "short_name": "Sachet p/gato sabor carne",
     "long_name": "Alim Gato Whiskas Sobre Carne 85 Grs",
-    "content": {
-      "content_detail": 85,
-      "measure_unit": "gr."
-    },
+    "content_detail": 85,
+    "measure_unit": "gr",
     "brand": "WHISKAS",
     "category": "MASCOTAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Mascotas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7804673910030",
-    "sku": "123095",
-    "sap": "1957075",
-    "short_name": "Protein bar chocolate mani",
-    "long_name": "Wild Protein Chocolate Mani Un",
-    "content": {
-      "content_detail": 45,
-      "measure_unit": "gr."
-    },
-    "brand": "WILD",
-    "category": "ALMACEN",
-    "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
-    "aisle": "Cereales",
-    "generated_ean": false,
-    "autoshoppable_available": true
-  },
-  {
-    "ean": "7804673910191",
-    "sku": "No Encontrado",
-    "sap": "1957077",
+    "ean": 7,
+    "sku_sap": 1957077,
+    "sku_vtex": null,
     "short_name": "Protin bar chocolate coco",
     "long_name": "Wild Protein Veg Chocolate Coco Un",
-    "content": {
-      "content_detail": 45,
-      "measure_unit": "gr."
-    },
+    "content_detail": 45,
+    "measure_unit": "gr",
     "brand": "WILD",
     "category": "ALMACEN",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Cereales",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7804673910030",
-    "sku": "123095",
-    "sap": "1957075",
+    "ean": 7,
+    "sku_sap": 1957075,
+    "sku_vtex": 123095,
     "short_name": "Barra Wild Chocolate Maní 45gr",
     "long_name": "Wild Protein Chocolate Mani Un",
-    "content": {
-      "content_detail": 45,
-      "measure_unit": "gr."
-    },
+    "content_detail": 45,
+    "measure_unit": "gr",
     "brand": "WILD",
     "category": "ALMACEN",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Cereales",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "731299122127",
-    "sku": "No Encontrado",
-    "sap": "1865099",
+    "ean": 7,
+    "sku_sap": 1865099,
+    "sku_vtex": null,
     "short_name": "Panini Carne y Pepinillos",
     "long_name": "Panini De Carne Y Salsa De Pepinillos",
-    "content": {
-      "content_detail": 1,
-      "measure_unit": "un."
-    },
+    "content_detail": 1,
+    "measure_unit": "un",
     "brand": "SIN MARCA",
     "category": "PASTAS",
     "proxy_duration": "Corta",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Preparados",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "731299122158",
-    "sku": "No Encontrado",
-    "sap": "1865102",
+    "ean": 7,
+    "sku_sap": 1865102,
+    "sku_vtex": null,
     "short_name": "Panini Tomate Albahaca Mozarella",
     "long_name": "Panini Tomate Albahaca Y Mozzarella",
-    "content": {
-      "content_detail": 1,
-      "measure_unit": "un."
-    },
+    "content_detail": 1,
+    "measure_unit": "un",
     "brand": "SIN MARCA",
     "category": "PASTAS",
     "proxy_duration": "Corta",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Preparados",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802575015570",
-    "sku": "81463",
-    "sap": "1822186",
+    "ean": 7,
+    "sku_sap": 1822186,
+    "sku_vtex": 81463,
     "short_name": "Para Uno Espirales 70gr",
     "long_name": "Pasta Para Uno Carozzi Bolognesa 70g",
-    "content": {
-      "content_detail": 70,
-      "measure_unit": "gr."
-    },
+    "content_detail": 70,
+    "measure_unit": "gr",
     "brand": "CAROZZI",
     "category": "ALMACEN",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Compotas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802575015563",
-    "sku": "81462",
-    "sap": "1822185",
+    "ean": 7,
+    "sku_sap": 1822185,
+    "sku_vtex": 81462,
     "short_name": "Para Uno Caracoquesos 70gr",
     "long_name": "Pasta Para Uno Carozzi Caracoqueso 70g",
-    "content": {
-      "content_detail": 70,
-      "measure_unit": "gr."
-    },
+    "content_detail": 70,
+    "measure_unit": "gr",
     "brand": "CAROZZI",
     "category": "ALMACEN",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Compotas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7613287410429",
-    "sku": "100517",
-    "sap": "1857200002",
+    "ean": 7,
+    "sku_sap": 1857200002,
+    "sku_vtex": 100517,
     "short_name": "Chandelle Manjar 130gr",
     "long_name": "Chandelle S/Lactosa 130gr, Manjar",
-    "content": {
-      "content_detail": 130,
-      "measure_unit": "gr."
-    },
+    "content_detail": 130,
+    "measure_unit": "gr",
     "brand": "NESTLE",
     "category": "LACTEOS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Yogurt",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "78057241",
-    "sku": "6942",
-    "sap": "302470002",
+    "ean": 78057241,
+    "sku_sap": 302470002,
+    "sku_vtex": 6942,
     "short_name": "Chandelle Lúcuma 130gr",
     "long_name": "Chandelle Nestle 130gr, Lucuma",
-    "content": {
-      "content_detail": 130,
-      "measure_unit": "gr."
-    },
+    "content_detail": 130,
+    "measure_unit": "gr",
     "brand": "NESTLE",
     "category": "LACTEOS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Yogurt",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "78093676",
-    "sku": "6947",
-    "sap": "302470001",
+    "ean": 78093676,
+    "sku_sap": 302470001,
+    "sku_vtex": 6947,
     "short_name": "Chandelle Chocolate 130gr",
     "long_name": "Chandelle Nestle 130gr, Chocolate",
-    "content": {
-      "content_detail": 130,
-      "measure_unit": "gr."
-    },
+    "content_detail": 130,
+    "measure_unit": "gr",
     "brand": "NESTLE",
     "category": "LACTEOS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Yogurt",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802900228170",
-    "sku": "100521",
-    "sap": "891081003",
+    "ean": 7,
+    "sku_sap": 891081003,
+    "sku_vtex": 100521,
     "short_name": "Yogurt 1+1 Mini Cookies",
     "long_name": "Yog Soprole 1+1 C/Cuchara, Mini Cookies",
-    "content": {
-      "content_detail": 140,
-      "measure_unit": "gr."
-    },
+    "content_detail": 140,
+    "measure_unit": "gr",
     "brand": "SOPROLE",
     "category": "LACTEOS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Yogurt",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7702026178642",
-    "sku": "No Encontrado",
-    "sap": "0",
+    "ean": 7,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Toallas Higiénicas Nosotras 6un",
     "long_name": "T.Fem Nosotras Normal C/Alas Suave 6 Un",
-    "content": {
-      "content_detail": 6,
-      "measure_unit": "un."
-    },
+    "content_detail": 6,
+    "measure_unit": "un",
     "brand": "NOSOTRAS",
     "category": "PERFUMERÍA",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Higiene",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7702425801288",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 7,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Toallas Higiénicas Ultrafina 10un",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": null,
-      "measure_unit": "No Encontrado"
-    },
+    "content_detail": null,
+    "measure_unit": "No Encontrado",
     "brand": "No Encontrado",
     "category": "No Encontrado",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Higiene",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "40000514251",
-    "sku": "55333",
-    "sap": "1656333",
+    "ean": 40000514251,
+    "sku_sap": 1656333,
+    "sku_vtex": 55333,
     "short_name": "Snickers Almendra 43gr",
     "long_name": "Snickers Singles 53g",
-    "content": {
-      "content_detail": 53,
-      "measure_unit": "gr."
-    },
+    "content_detail": 53,
+    "measure_unit": "gr",
     "brand": "SNICKERS",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "40000514206",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 40000514206,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Twix",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": null,
-      "measure_unit": "No Encontrado"
-    },
+    "content_detail": null,
+    "measure_unit": "No Encontrado",
     "brand": "No Encontrado",
     "category": "No Encontrado",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "40000422068",
-    "sku": "55164",
-    "sap": "923966",
+    "ean": 40000422068,
+    "sku_sap": 923966,
+    "sku_vtex": 55164,
     "short_name": "MilkyWay",
     "long_name": "Milky Way Singles 52gr",
-    "content": {
-      "content_detail": 52,
-      "measure_unit": "gr."
-    },
+    "content_detail": 52,
+    "measure_unit": "gr",
     "brand": "SNICKERS",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7502271912059",
-    "sku": "114532",
-    "sap": "1931615",
+    "ean": 7,
+    "sku_sap": 1931615,
+    "sku_vtex": 114532,
     "short_name": "Snickers Almendra",
     "long_name": "Snickers Singles Almond 43.4gr",
-    "content": {
-      "content_detail": 43,
-      "measure_unit": "gr."
-    },
+    "content_detail": 43,
+    "measure_unit": "gr",
     "brand": "SNICKERS",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "40000536789",
-    "sku": "55332",
-    "sap": "1656332",
-    "short_name": "M&M Peanuts 49gr",
-    "long_name": "M&M'S Singles Peanut 49g",
-    "content": {
-      "content_detail": 49,
-      "measure_unit": "gr."
-    },
-    "brand": "M&M",
-    "category": "GALLETAS Y GOLOSINAS",
-    "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
-    "aisle": "Dulce",
-    "generated_ean": false,
-    "autoshoppable_available": true
-  },
-  {
-    "ean": "40000536819",
-    "sku": "55331",
-    "sap": "1656331",
-    "short_name": "M&M Chocolate 48gr",
-    "long_name": "M&M'S Singles Milk Choc 48gr",
-    "content": {
-      "content_detail": 48,
-      "measure_unit": "gr."
-    },
-    "brand": "M&M",
-    "category": "GALLETAS Y GOLOSINAS",
-    "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
-    "aisle": "Dulce",
-    "generated_ean": false,
-    "autoshoppable_available": true
-  },
-  {
-    "ean": "34000702329",
-    "sku": "105998",
-    "sap": "1896346",
+    "ean": 34000702329,
+    "sku_sap": 1896346,
+    "sku_vtex": 105998,
     "short_name": "Reese's 42gr",
     "long_name": "Cup Resses Milk HersheyýS 42 G",
-    "content": {
-      "content_detail": 42,
-      "measure_unit": "gr."
-    },
+    "content_detail": 42,
+    "measure_unit": "gr",
     "brand": "HERSHEY`S",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7891000248768",
-    "sku": "73757",
-    "sap": "1782456",
+    "ean": 7,
+    "sku_sap": 1782456,
+    "sku_vtex": 73757,
     "short_name": "KitKat",
     "long_name": "Chocolate Kit Kat 41.5 Gr",
-    "content": {
-      "content_detail": 41,
-      "measure_unit": "gr."
-    },
+    "content_detail": 41,
+    "measure_unit": "gr",
     "brand": "NESTLE",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7891000248829",
-    "sku": "No Encontrado",
-    "sap": "0",
+    "ean": 7,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Kitkat Dark",
     "long_name": "Chocolate Kit Kat Dark 41.5 Gr",
-    "content": {
-      "content_detail": 41,
-      "measure_unit": "gr."
-    },
+    "content_detail": 41,
+    "measure_unit": "gr",
     "brand": "NESTLE",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802215508530",
-    "sku": "3934",
-    "sap": "1030132",
+    "ean": 7,
+    "sku_sap": 1030132,
+    "sku_vtex": 3934,
     "short_name": "Donuts Blanco 100gr",
     "long_name": "Galleta Costa Donuts Choc Blanco 100g",
-    "content": {
-      "content_detail": 100,
-      "measure_unit": "gr."
-    },
+    "content_detail": 100,
+    "measure_unit": "gr",
     "brand": "COSTA",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802215508547",
-    "sku": "3936",
-    "sap": "1035074",
+    "ean": 7,
+    "sku_sap": 1035074,
+    "sku_vtex": 3936,
     "short_name": "Donuts Orange Bitter 100gr",
     "long_name": "Galleta Donuts Costa Naranja Biter 100 G",
-    "content": {
-      "content_detail": 100,
-      "measure_unit": "gr."
-    },
+    "content_detail": 100,
+    "measure_unit": "gr",
     "brand": "COSTA",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802215514333",
-    "sku": "3950",
-    "sap": "537050",
+    "ean": 7,
+    "sku_sap": 537050,
+    "sku_vtex": 3950,
     "short_name": "Obsesión 85gr",
     "long_name": "Galleta Costa Obsesion Mani 85 Gr",
-    "content": {
-      "content_detail": 85,
-      "measure_unit": "gr."
-    },
+    "content_detail": 85,
+    "measure_unit": "gr",
     "brand": "COSTA",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7803525999407",
-    "sku": "4113",
-    "sap": "1365089",
+    "ean": 7,
+    "sku_sap": 1365089,
+    "sku_vtex": 4113,
     "short_name": "Galletas chips de chocolate Nutra Bien sin azúcar 128 g",
     "long_name": "Gall Nutrabien S/Azu Chip Choco 128g",
-    "content": {
-      "content_detail": 128,
-      "measure_unit": "gr."
-    },
+    "content_detail": 128,
+    "measure_unit": "gr",
     "brand": "NUTRA BIEN",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802200263048",
-    "sku": "81874",
-    "sap": "1820181",
+    "ean": 7,
+    "sku_sap": 1820181,
+    "sku_vtex": 81874,
     "short_name": "Jugo Vivo 100% Fruta Pera 190 ml",
     "long_name": "Vivo Jugo 100% Fruta Pera 190 Ml",
-    "content": {
-      "content_detail": 190,
-      "measure_unit": "ml."
-    },
+    "content_detail": 190,
+    "measure_unit": "ml",
     "brand": "VIVO",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Jugos",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802200263031",
-    "sku": "81872",
-    "sap": "1820180",
+    "ean": 7,
+    "sku_sap": 1820180,
+    "sku_vtex": 81872,
     "short_name": "Jugo Vivo 100% Fruta Manzana 190 ml",
     "long_name": "Vivo Jugo 100% Fruta Manzana 190 Ml",
-    "content": {
-      "content_detail": 190,
-      "measure_unit": "ml."
-    },
+    "content_detail": 190,
+    "measure_unit": "ml",
     "brand": "VIVO",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Jugos",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802575220479",
-    "sku": "43999",
-    "sap": "1214552",
+    "ean": 7,
+    "sku_sap": 1214552,
+    "sku_vtex": 43999,
     "short_name": "Néctar Berries 190ml",
     "long_name": "Nectar Vivo Berries 190ml",
-    "content": {
-      "content_detail": 190,
-      "measure_unit": "ml."
-    },
+    "content_detail": 190,
+    "measure_unit": "ml",
     "brand": "VIVO",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Jugos",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802575220455",
-    "sku": "44149",
-    "sap": "1214551",
+    "ean": 7,
+    "sku_sap": 1214551,
+    "sku_vtex": 44149,
     "short_name": "Néctar Piña 190ml",
     "long_name": "Nectar Vivo PiñA 190ml",
-    "content": {
-      "content_detail": 190,
-      "measure_unit": "ml."
-    },
+    "content_detail": 190,
+    "measure_unit": "ml",
     "brand": "VIVO",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Jugos",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802575220516",
-    "sku": "43998",
-    "sap": "1214554",
+    "ean": 7,
+    "sku_sap": 1214554,
+    "sku_vtex": 43998,
     "short_name": "Néctar Manzana 190ml",
     "long_name": "Nectar Vivo Manzana  190ml",
-    "content": {
-      "content_detail": 190,
-      "measure_unit": "ml."
-    },
+    "content_detail": 190,
+    "measure_unit": "ml",
     "brand": "VIVO",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Jugos",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802575220493",
-    "sku": "44150",
-    "sap": "1214553",
+    "ean": 7,
+    "sku_sap": 1214553,
+    "sku_vtex": 44150,
     "short_name": "Néctar Naranja 190ml",
     "long_name": "Nectar Vivo Naranja  190ml",
-    "content": {
-      "content_detail": 190,
-      "measure_unit": "ml."
-    },
+    "content_detail": 190,
+    "measure_unit": "ml",
     "brand": "VIVO",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Jugos",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802575220530",
-    "sku": "43997",
-    "sap": "1214555",
+    "ean": 7,
+    "sku_sap": 1214555,
+    "sku_vtex": 43997,
     "short_name": "Néctar Durazno 190ml",
     "long_name": "Nectar Vivo Durazno 190ml",
-    "content": {
-      "content_detail": 190,
-      "measure_unit": "ml."
-    },
+    "content_detail": 190,
+    "measure_unit": "ml",
     "brand": "VIVO",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Jugos",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7613030612339",
-    "sku": "82520",
-    "sap": "1815230",
-    "short_name": "Super8 29gr",
+    "ean": 7,
+    "sku_sap": 1815230,
+    "sku_vtex": 82520,
+    "short_name": "Super8 29g",
     "long_name": "Oblea Super 8 29g",
-    "content": {
-      "content_detail": 29,
-      "measure_unit": "gr."
-    },
+    "content_detail": 29,
+    "measure_unit": "gr",
     "brand": "NESTLE",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Dulce",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802000017094",
-    "sku": "No Encontrado",
-    "sap": "1945536",
+    "ean": 7,
+    "sku_sap": 1945536,
+    "sku_vtex": null,
     "short_name": "Doritos queso 140 g",
     "long_name": "*Doritos Queso 140gr",
-    "content": {
-      "content_detail": 140,
-      "measure_unit": "gr."
-    },
+    "content_detail": 140,
+    "measure_unit": "gr",
     "brand": "EVERCRISP",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Salado",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "757528044978",
-    "sku": "98839",
-    "sap": "1868971",
+    "ean": 7,
+    "sku_sap": 1868971,
+    "sku_vtex": 98839,
     "short_name": "Tortillas Takis Xplosion 200 g",
     "long_name": "Tortillas Taki Xplosion 200 Gr",
-    "content": {
-      "content_detail": 200,
-      "measure_unit": "gr."
-    },
+    "content_detail": 200,
+    "measure_unit": "gr",
     "brand": "TAKIS",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Salado",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801610000601",
-    "sku": "505",
-    "sap": "1259964",
+    "ean": 7,
+    "sku_sap": 1259964,
+    "sku_vtex": 505,
     "short_name": "Coca-Cola Sin Azúcar 591 ml",
     "long_name": "Bebida Coca Cola Sin Azucar Pet 591cc",
-    "content": {
-      "content_detail": 591,
-      "measure_unit": "ml."
-    },
+    "content_detail": 591,
+    "measure_unit": "ml",
     "brand": "COCA COLA ZERO",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801610591888",
-    "sku": "438",
-    "sap": "1544835",
+    "ean": 7,
+    "sku_sap": 1544835,
+    "sku_vtex": 438,
     "short_name": "Sprite Sin Azúcar 591 ml",
     "long_name": "Sprite Zero Pet 591cc",
-    "content": {
-      "content_detail": 591,
-      "measure_unit": "ml."
-    },
+    "content_detail": 591,
+    "measure_unit": "ml",
     "brand": "SPRITE",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801610591123",
-    "sku": "409",
-    "sap": "1544833",
+    "ean": 7,
+    "sku_sap": 1544833,
+    "sku_vtex": 409,
     "short_name": "Fanta Zero 591ml",
     "long_name": "Fanta Zero Pet 591cc",
-    "content": {
-      "content_detail": 591,
-      "measure_unit": "ml."
-    },
+    "content_detail": 591,
+    "measure_unit": "ml",
     "brand": "FANTA",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802820048322",
-    "sku": "72433",
-    "sap": "1771572",
+    "ean": 7,
+    "sku_sap": 1771572,
+    "sku_vtex": 72433,
     "short_name": "Néctar Durazno Sin azúcar 1.5lt",
     "long_name": "Nec Andina Del Valle Dura Light Bot 1.5l",
-    "content": {
-      "content_detail": 1500,
-      "measure_unit": "ml."
-    },
+    "content_detail": 1500,
+    "measure_unit": "ml",
     "brand": "ANDINA",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Bebidas",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801620006341",
-    "sku": "876",
-    "sap": "1628910",
+    "ean": 7,
+    "sku_sap": 1628910,
+    "sku_vtex": 876,
     "short_name": "Néctar Piña Sin azúcar 1.5lt",
     "long_name": "NéCtar WattýS PiñA Light Pet 1.5lt",
-    "content": {
-      "content_detail": 1500,
-      "measure_unit": "ml."
-    },
+    "content_detail": 1500,
+    "measure_unit": "ml",
     "brand": "WATT S",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Jugos",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802820700633",
-    "sku": "768",
-    "sap": "452715",
+    "ean": 7,
+    "sku_sap": 452715,
+    "sku_vtex": 768,
     "short_name": "Néctar Naranja Sin azúcar 1.5lt",
     "long_name": "Andina Frut Naran Light Pet 1.5lt",
-    "content": {
-      "content_detail": 1500,
-      "measure_unit": "ml."
-    },
+    "content_detail": 1500,
+    "measure_unit": "ml",
     "brand": "ANDINA",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Jugos",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801620853396",
-    "sku": "875",
-    "sap": "501542002",
+    "ean": 7,
+    "sku_sap": 501542002,
+    "sku_vtex": 875,
     "short_name": "Néctar Naranja Sin azúcar 1.5lt",
     "long_name": "Nectar Watts Bot Des 1.5 L, Naranjalight",
-    "content": {
-      "content_detail": 1500,
-      "measure_unit": "ml."
-    },
+    "content_detail": 1500,
+    "measure_unit": "ml",
     "brand": "WATT S",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Jugos",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801620011604",
-    "sku": "881",
-    "sap": "498244003",
-    "short_name": "Néctar Naranja 1.5lt",
+    "ean": 7,
+    "sku_sap": 498244003,
+    "sku_vtex": 881,
+    "short_name": "Néctar Watt's Naranja 1.5 L",
     "long_name": "Nectar Watts B.Ancha 1.5 Lt, Naranja",
-    "content": {
-      "content_detail": 1500,
-      "measure_unit": "ml."
-    },
+    "content_detail": 1500,
+    "measure_unit": "ml",
     "brand": "WATT S",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Jugos",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7805000301484",
-    "sku": "2768",
-    "sap": "271327",
+    "ean": 7,
+    "sku_sap": 271327,
+    "sku_vtex": 2768,
     "short_name": "Mayonesa Sachet 93 gr",
     "long_name": "Mayonesa Hellmanns Sachet 93 Gr",
-    "content": {
-      "content_detail": 93,
-      "measure_unit": "gr."
-    },
+    "content_detail": 93,
+    "measure_unit": "gr",
     "brand": "HELLMANN`S",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801930010861",
-    "sku": "10564",
-    "sap": "1614993",
+    "ean": 7,
+    "sku_sap": 1614993,
+    "sku_vtex": 10564,
     "short_name": "Pizza PF 465gr Variedades",
     "long_name": "Pizza EspañOla 465g Pf Listo",
-    "content": {
-      "content_detail": 465,
-      "measure_unit": "gr."
-    },
+    "content_detail": 465,
+    "measure_unit": "gr",
     "brand": "PF",
     "category": "PASTAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801930019925",
-    "sku": "No Encontrado",
-    "sap": "1846682",
+    "ean": 7,
+    "sku_sap": 1846682,
+    "sku_vtex": null,
     "short_name": "Lasaña PF Refrigerada 330gr Variedades",
     "long_name": "LasañA BoloñEsa 330g Pflisto",
-    "content": {
-      "content_detail": 1,
-      "measure_unit": "un."
-    },
+    "content_detail": 1,
+    "measure_unit": "un",
     "brand": "PF",
     "category": "ROTISERÍA / PLATOS PREPARADOS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802230070029",
-    "sku": "3734",
-    "sap": "268975",
+    "ean": 7,
+    "sku_sap": 268975,
+    "sku_vtex": 3734,
     "short_name": "Chocolate Trencito 150gr",
     "long_name": "Chocolate Nestle Trencito 150 G",
-    "content": {
-      "content_detail": 150,
-      "measure_unit": "gr."
-    },
+    "content_detail": 150,
+    "measure_unit": "gr",
     "brand": "TRENCITO",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802575000552",
-    "sku": "2298",
-    "sap": "265213",
+    "ean": 7,
+    "sku_sap": 265213,
+    "sku_vtex": 2298,
     "short_name": "Caracoquesos Carozzi 296gr",
     "long_name": "Caracoqueso Carozzi 296 G",
-    "content": {
-      "content_detail": 296,
-      "measure_unit": "gr."
-    },
+    "content_detail": 296,
+    "measure_unit": "gr",
     "brand": "CAROZZI",
     "category": "ALMACEN",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802000002526",
-    "sku": "No Encontrado",
-    "sap": "987654",
+    "ean": 7,
+    "sku_sap": 987654,
+    "sku_vtex": null,
     "short_name": "Papas Fritas Lay's Corte Americano 38 gr",
     "long_name": "Papas Fritas Lays Americana 38gr",
-    "content": {
-      "content_detail": 380,
-      "measure_unit": "gr."
-    },
+    "content_detail": 380,
+    "measure_unit": "gr",
     "brand": "LAYS",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7444969795V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 7444969795,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Tika Variedades 35g",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "3995617589V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 3995617589,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Yoghurt Colun Protein Plus! Variedades",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "9933941",
-    "sku": "No Encontrado",
-    "sap": "1382070",
+    "ean": 9933941,
+    "sku_sap": 1382070,
+    "sku_vtex": null,
     "short_name": "Wrap de pollo",
     "long_name": "Entr Wrap Ave Rincon Un",
-    "content": {
-      "content_detail": 1,
-      "measure_unit": "un."
-    },
+    "content_detail": 1,
+    "measure_unit": "un",
     "brand": "JUMBO E.P.",
     "category": "RESTAURANT",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "1000954703V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 1000954703,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Nectar sin azucar Guallarauco 300ml",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "7790040613706",
-    "sku": "No Encontrado",
-    "sap": "0",
+    "ean": 7,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Alfajor Bon o Bon 40 grs",
     "long_name": "Alfajor Bon O Bon",
-    "content": {
-      "content_detail": 40,
-      "measure_unit": "gr."
-    },
+    "content_detail": 40,
+    "measure_unit": "gr",
     "brand": "ARCOR",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": null,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Hallulla Barros Jarpa 120g Daily Fresh",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": null,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Selz Cracker 54 gr",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "2120579300V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 2120579300,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Yoghurt Batido Protein",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "2202591767V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 2202591767,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Galleta Club Social",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802920008110",
-    "sku": "45790",
-    "sap": "1727825",
-    "short_name": "Colun Capuchino",
-    "long_name": "Leche Colun Capuccino Prisma 330ml",
-    "content": {
-      "content_detail": 330,
-      "measure_unit": "ml."
-    },
-    "brand": "COLUN",
-    "category": "LACTEOS",
-    "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
-    "aisle": "Sin pasillo",
-    "generated_ean": false,
-    "autoshoppable_available": true
-  },
-  {
-    "ean": "7801610022122",
-    "sku": "43764",
-    "sap": "263228",
+    "ean": 7,
+    "sku_sap": 263228,
+    "sku_vtex": 43764,
     "short_name": "Coca Cola Light Lata 350ml",
     "long_name": "Bebida Coca Cola Lata Light 350 Cc",
-    "content": {
-      "content_detail": 350,
-      "measure_unit": "ml."
-    },
+    "content_detail": 350,
+    "measure_unit": "ml",
     "brand": "COCA COLA LIGHT",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802920009384",
-    "sku": "84612",
-    "sap": "1829954003",
+    "ean": 7,
+    "sku_sap": 1829954003,
+    "sku_vtex": 84612,
     "short_name": "Protein Plus Pouch 150gr",
     "long_name": "Yog Protein Plus Squeeze 150g, Frut-Plat",
-    "content": {
-      "content_detail": 150,
-      "measure_unit": "gr."
-    },
+    "content_detail": 150,
+    "measure_unit": "gr",
     "brand": "COLUN",
     "category": "LACTEOS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "8829320469V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 8829320469,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Puri Popcorn Variedades 25gr",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "24794428",
-    "sku": "24559",
-    "sap": "398286",
+    "ean": 24794428,
+    "sku_sap": 398286,
+    "sku_vtex": 24559,
     "short_name": "Ensalada César 410 gr",
     "long_name": "Ensalada Cesar Jumbo 410 G",
-    "content": {
-      "content_detail": 430,
-      "measure_unit": "gr."
-    },
+    "content_detail": 430,
+    "measure_unit": "gr",
     "brand": "JUMBO READY FRESCOS",
     "category": "ROTISERÍA / PLATOS PREPARADOS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801620340155",
-    "sku": "43842",
-    "sap": "263327",
-    "short_name": "Limón Soda lata 350cc",
-    "long_name": "Bebida Limon Soda La Ta 350 Cc",
-    "content": {
-      "content_detail": 350,
-      "measure_unit": "ml."
-    },
-    "brand": "LIMON SODA",
-    "category": "BOTILLERÍA/GASEOSAS",
-    "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
-    "aisle": "Sin pasillo",
-    "generated_ean": false,
-    "autoshoppable_available": true
-  },
-  {
-    "ean": "2915313237V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 2915313237,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Galletas Digestive Sin Azúcar Variedades",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "0256422718V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 256422718,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Ensalada Castaño Variedades",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "4322804458V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 4322804458,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Jugo AMA Variedades 200cc",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "5417026218V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 5417026218,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Crema Colun Variedades 200 ml",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "0583203872V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 583203872,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Red Bull 250ml Variedades",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "6371772684V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 6371772684,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Néctar Boca Ancha Andina del Valle Variedades",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801620009731",
-    "sku": "No Encontrado",
-    "sap": "1946078",
+    "ean": 7,
+    "sku_sap": 1946078,
+    "sku_vtex": null,
     "short_name": "Té Líquido Lipton Durazno 310ml",
     "long_name": "Te Helado Lipton Durazno Lata 310cc",
-    "content": {
-      "content_detail": 310,
-      "measure_unit": "ml."
-    },
+    "content_detail": 310,
+    "measure_unit": "ml",
     "brand": "LIPTON",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801620009724",
-    "sku": "121084",
-    "sap": "1946077",
+    "ean": 7,
+    "sku_sap": 1946077,
+    "sku_vtex": 121084,
     "short_name": "Té Líquido Lipton Limón 310ml",
     "long_name": "Te Helado Lipton Limon Lata 310cc",
-    "content": {
-      "content_detail": 310,
-      "measure_unit": "ml."
-    },
+    "content_detail": 310,
+    "measure_unit": "ml",
     "brand": "LIPTON",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7613036927857",
-    "sku": "85003",
-    "sap": "1840616002",
+    "ean": 7,
+    "sku_sap": 1840616002,
+    "sku_vtex": 85003,
     "short_name": "Nescafé Mokaccino 330ml",
     "long_name": "Beb Lactea Nescafe 330ml, Mokaccino",
-    "content": {
-      "content_detail": 330,
-      "measure_unit": "ml."
-    },
+    "content_detail": 330,
+    "measure_unit": "ml",
     "brand": "NESCAFE",
     "category": "LACTEOS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801610223192",
-    "sku": "533",
-    "sap": "431060",
+    "ean": 7,
+    "sku_sap": 431060,
+    "sku_vtex": 533,
     "short_name": "Sprite Zero 350ml",
     "long_name": "Bebida Sprite Zero Lata 350cc",
-    "content": {
-      "content_detail": 350,
-      "measure_unit": "ml."
-    },
+    "content_detail": 350,
+    "measure_unit": "ml",
     "brand": "SPRITE ZERO",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": null,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Frescolita 350ml",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801610671016",
-    "sku": "No Encontrado",
-    "sap": "1146740",
+    "ean": 7,
+    "sku_sap": 1146740,
+    "sku_vtex": null,
     "short_name": "Fanta Zero 350cc",
     "long_name": "Bebida Fanta Zero Lata 350cc",
-    "content": {
-      "content_detail": 350,
-      "measure_unit": "ml."
-    },
+    "content_detail": 350,
+    "measure_unit": "ml",
     "brand": "FANTA ZERO",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801610001196",
-    "sku": "43763",
-    "sap": "263227",
+    "ean": 7,
+    "sku_sap": 263227,
+    "sku_vtex": 43763,
     "short_name": "Coca-Cola Original 350ml",
     "long_name": "Bebida Coca Cola Lat A 350 Cc",
-    "content": {
-      "content_detail": 350,
-      "measure_unit": "ml."
-    },
+    "content_detail": 350,
+    "measure_unit": "ml",
     "brand": "COCA COLA",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7591446002176",
-    "sku": "No Encontrado",
-    "sap": "0",
+    "ean": 7,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Maltín Polar 355ml",
     "long_name": "Bebida Maltin Polar Lata 355 Cc",
-    "content": {
-      "content_detail": 355,
-      "measure_unit": "ml."
-    },
+    "content_detail": 355,
+    "measure_unit": "ml",
     "brand": "POLAR",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801620009540",
-    "sku": "No Encontrado",
-    "sap": "1928239",
+    "ean": 7,
+    "sku_sap": 1928239,
+    "sku_vtex": null,
     "short_name": "Gatorade Zero Blue Berry 500ml",
     "long_name": "Beb Isot Gatorade Blue Ber Zero Pet 500",
-    "content": {
-      "content_detail": 500,
-      "measure_unit": "ml."
-    },
+    "content_detail": 500,
+    "measure_unit": "ml",
     "brand": "GATORADE",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801620002961",
-    "sku": "455",
-    "sap": "731601",
+    "ean": 7,
+    "sku_sap": 731601,
+    "sku_vtex": 455,
     "short_name": "Gatorade Cool Blue 500ml",
     "long_name": "Bebida Gatorade Cool Blue 500cc",
-    "content": {
-      "content_detail": 500,
-      "measure_unit": "ml."
-    },
+    "content_detail": 500,
+    "measure_unit": "ml",
     "brand": "GATORADE",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801620009557",
-    "sku": "No Encontrado",
-    "sap": "1928240",
+    "ean": 7,
+    "sku_sap": 1928240,
+    "sku_vtex": null,
     "short_name": "Gatorade Zero Naranja 500ml",
     "long_name": "Beb Isot Gatorade Naranja Zero Pet 500",
-    "content": {
-      "content_detail": 500,
-      "measure_unit": "ml."
-    },
+    "content_detail": 500,
+    "measure_unit": "ml",
     "brand": "GATORADE",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801620002657",
-    "sku": "463",
-    "sap": "689211002",
+    "ean": 7,
+    "sku_sap": 689211002,
+    "sku_vtex": 463,
     "short_name": "Gatorade Naranja 500ml",
     "long_name": "Bebida Gatorade Bot Des 500cc, Naranja",
-    "content": {
-      "content_detail": 500,
-      "measure_unit": "ml."
-    },
+    "content_detail": 500,
+    "measure_unit": "ml",
     "brand": "GATORADE",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801620011840",
-    "sku": "456",
-    "sap": "731602",
+    "ean": 7,
+    "sku_sap": 731602,
+    "sku_vtex": 456,
     "short_name": "Gatorade Frutas Tropicales 500ml",
     "long_name": "Bebida Gatorade F Tropic 500cc",
-    "content": {
-      "content_detail": 500,
-      "measure_unit": "ml."
-    },
+    "content_detail": 500,
+    "measure_unit": "ml",
     "brand": "GATORADE",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "24979009",
-    "sku": "No Encontrado",
-    "sap": "1358098",
+    "ean": 24979009,
+    "sku_sap": 1358098,
+    "sku_vtex": null,
     "short_name": "Manzana Pink Granel",
     "long_name": "Manzana Pink Lady Export Granelšššš",
-    "content": {
-      "content_detail": 1000,
-      "measure_unit": "gr."
-    },
+    "content_detail": 1000,
+    "measure_unit": "gr",
     "brand": "FRUTAS MP",
     "category": "FRUTAS Y VERDURAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "24016599",
-    "sku": "5723",
-    "sap": "260963",
+    "ean": 24016599,
+    "sku_sap": 260963,
+    "sku_vtex": 5723,
     "short_name": "Naranja Granel",
     "long_name": "Naranja Granel",
-    "content": {
-      "content_detail": 1000,
-      "measure_unit": "gr."
-    },
+    "content_detail": 1000,
+    "measure_unit": "gr",
     "brand": "FRUTAS MP",
     "category": "FRUTAS Y VERDURAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "24040297",
-    "sku": "5908",
-    "sap": "260573",
+    "ean": 24040297,
+    "sku_sap": 260573,
+    "sku_vtex": 5908,
     "short_name": "Cebolla Granel",
     "long_name": "Cebolla Granel",
-    "content": {
-      "content_detail": 1000,
-      "measure_unit": "gr."
-    },
+    "content_detail": 1000,
+    "measure_unit": "gr",
     "brand": "VERDURAS MP",
     "category": "FRUTAS Y VERDURAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "24015820",
-    "sku": "277",
-    "sap": "261275",
+    "ean": 24015820,
+    "sku_sap": 261275,
+    "sku_vtex": 277,
     "short_name": "Tomate Larga Vida Granel",
     "long_name": "Tomate Larga Vida Granel",
-    "content": {
-      "content_detail": 1000,
-      "measure_unit": "gr."
-    },
+    "content_detail": 1000,
+    "measure_unit": "gr",
     "brand": "VERDURAS MP",
     "category": "FRUTAS Y VERDURAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": null,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Toallas Higiénicas Kotex 10un",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "24936323",
-    "sku": "53945",
-    "sap": "1558648",
+    "ean": 24936323,
+    "sku_sap": 1558648,
+    "sku_vtex": 53945,
     "short_name": "Manzana Verde Granel",
     "long_name": "Manzana Verde Export Granel Kg",
-    "content": {
-      "content_detail": 1000,
-      "measure_unit": "gr."
-    },
+    "content_detail": 1000,
+    "measure_unit": "gr",
     "brand": "FRUTAS MP",
     "category": "FRUTAS Y VERDURAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801620011604",
-    "sku": "881",
-    "sap": "498244003",
-    "short_name": "Néctar Watt's Naranja 1.5 L",
-    "long_name": "Nectar Watts B.Ancha 1.5 Lt, Naranja",
-    "content": {
-      "content_detail": 1500,
-      "measure_unit": "ml."
-    },
-    "brand": "WATT S",
-    "category": "BOTILLERÍA/GASEOSAS",
-    "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
-    "aisle": "Sin pasillo",
-    "generated_ean": false,
-    "autoshoppable_available": true
-  },
-  {
-    "ean": "8179967988V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 8179967988,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Néctar Del Valle Variedades 0% Azúcar Añadida 1.5 L",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801620853396",
-    "sku": "875",
-    "sap": "501542002",
-    "short_name": "Néctar Watt's Naranja Sin Azúcar Añadida 1.5 L",
-    "long_name": "Nectar Watts Bot Des 1.5 L, Naranjalight",
-    "content": {
-      "content_detail": 1500,
-      "measure_unit": "ml."
-    },
-    "brand": "WATT S",
-    "category": "BOTILLERÍA/GASEOSAS",
-    "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
-    "aisle": "Sin pasillo",
-    "generated_ean": false,
-    "autoshoppable_available": true
-  },
-  {
-    "ean": "7801620006341",
-    "sku": "876",
-    "sap": "1628910",
-    "short_name": "Néctar Watt's Piña 0% Azúcar Añadida 1.5 L",
-    "long_name": "NéCtar WattýS PiñA Light Pet 1.5lt",
-    "content": {
-      "content_detail": 1500,
-      "measure_unit": "ml."
-    },
-    "brand": "WATT S",
-    "category": "BOTILLERÍA/GASEOSAS",
-    "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
-    "aisle": "Sin pasillo",
-    "generated_ean": false,
-    "autoshoppable_available": true
-  },
-  {
-    "ean": "7802810002099",
-    "sku": "13591",
-    "sap": "264343",
+    "ean": 7,
+    "sku_sap": 264343,
+    "sku_vtex": 13591,
     "short_name": "Aceite Maravilla 1 Lt",
     "long_name": "Aceite Maravilla Chef 1 Lt",
-    "content": {
-      "content_detail": 1000,
-      "measure_unit": "ml."
-    },
+    "content_detail": 1000,
+    "measure_unit": "ml",
     "brand": "CHEF",
     "category": "ALMACEN",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801620006860",
-    "sku": "17483",
-    "sap": "1660623",
+    "ean": 7,
+    "sku_sap": 1660623,
+    "sku_vtex": 17483,
     "short_name": "Pepsi Zero 1.5Lts",
     "long_name": "Pepsi Zero Pet 1500",
-    "content": {
-      "content_detail": 1500,
-      "measure_unit": "ml."
-    },
+    "content_detail": 1500,
+    "measure_unit": "ml",
     "brand": "PEPSI LIGHT",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801610002261",
-    "sku": "403",
-    "sap": "263455",
+    "ean": 7,
+    "sku_sap": 263455,
+    "sku_vtex": 403,
     "short_name": "Fanta 1.5lt",
     "long_name": "Bebida Fanta Desecha Ble 1500cc",
-    "content": {
-      "content_detail": 1500,
-      "measure_unit": "ml."
-    },
+    "content_detail": 1500,
+    "measure_unit": "ml",
     "brand": "FANTA",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801620014513",
-    "sku": "429",
-    "sap": "263369",
+    "ean": 7,
+    "sku_sap": 263369,
+    "sku_vtex": 429,
     "short_name": "Pepsi Normal 1.5Lts",
     "long_name": "Bebida Pepsi Bot Des 1.5 Lt",
-    "content": {
-      "content_detail": 1500,
-      "measure_unit": "ml."
-    },
+    "content_detail": 1500,
+    "measure_unit": "ml",
     "brand": "PEPSI",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "4182064587V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 4182064587,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Sachet snack Perro variedades",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "4521409723V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 4521409723,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Galletas Donuts Chocolate Variedades",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802230082831",
-    "sku": "4063",
-    "sap": "269461",
+    "ean": 7,
+    "sku_sap": 269461,
+    "sku_vtex": 4063,
     "short_name": "Criollita 100gr",
     "long_name": "Galleta Mckay Criollita Champ 100g",
-    "content": {
-      "content_detail": 100,
-      "measure_unit": "gr."
-    },
+    "content_detail": 100,
+    "measure_unit": "gr",
     "brand": "MC KAY",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": null,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Malla Limon San Osvaldo",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801930006376",
-    "sku": "11062",
-    "sap": "730789",
+    "ean": 7,
+    "sku_sap": 730789,
+    "sku_vtex": 11062,
     "short_name": "Chorizo Parrillero 1Kg",
     "long_name": "Chorizo Parrillero Pf 1k",
-    "content": {
-      "content_detail": 1000,
-      "measure_unit": "gr."
-    },
+    "content_detail": 1000,
+    "measure_unit": "gr",
     "brand": "PF",
     "category": "FIAMBRERIA",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "4658466297V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 4658466297,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Cracker Variedades 107gr",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "7622201693091",
-    "sku": "115901",
-    "sap": "1932773",
+    "ean": 7,
+    "sku_sap": 1932773,
+    "sku_vtex": 115901,
     "short_name": "Oreo Original 108 g",
     "long_name": "Galleta Oreo Regular 108 Gr",
-    "content": {
-      "content_detail": 108,
-      "measure_unit": "gr."
-    },
+    "content_detail": 108,
+    "measure_unit": "gr",
     "brand": "OREO",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802230081162",
-    "sku": "4066",
-    "sap": "498074002",
+    "ean": 7,
+    "sku_sap": 498074002,
+    "sku_vtex": 4066,
     "short_name": "Kuky Clasica",
     "long_name": "Galleta Kuky Mckay 120gr, Clasica",
-    "content": {
-      "content_detail": 120,
-      "measure_unit": "gr."
-    },
+    "content_detail": 120,
+    "measure_unit": "gr",
     "brand": "MC KAY",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802215101342",
-    "sku": "73026",
-    "sap": "1784430",
+    "ean": 7,
+    "sku_sap": 1784430,
+    "sku_vtex": 73026,
     "short_name": "Chocolate Costanuss 120 g",
     "long_name": "Chocolate Costanuss 120 Gr",
-    "content": {
-      "content_detail": 120,
-      "measure_unit": "gr."
-    },
+    "content_detail": 120,
+    "measure_unit": "gr",
     "brand": "COSTA",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "4078204182V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 4078204182,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Yoghurt Colun Variedades 125 gr",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801916031538",
-    "sku": "98279",
-    "sap": "1859903",
+    "ean": 7,
+    "sku_sap": 1859903,
+    "sku_vtex": 98279,
     "short_name": "Jamón Pierna Ahumado 125gr",
     "long_name": "Jamon Pierna Cp La Preferida 125 Gr",
-    "content": {
-      "content_detail": 125,
-      "measure_unit": "gr."
-    },
+    "content_detail": 125,
+    "measure_unit": "gr",
     "brand": "LA PREFERIDA",
     "category": "FIAMBRERIA",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "9410283147V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 9410283147,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Chandelle Variedades 130gr",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "9628693363V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 9628693363,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Yoghurt 1+1 Variedades",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
     "pack": [
-      "2"
+      2
     ],
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "6179140616V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 6179140616,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Semola con Leche Soprole Variedades 140g",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802955007799",
-    "sku": "7091",
-    "sap": "1357270",
+    "ean": 7,
+    "sku_sap": 1357270,
+    "sku_vtex": 7091,
     "short_name": "Oikos Yogur Griego",
     "long_name": "Yog Griego Danone Natural 150gr",
-    "content": {
-      "content_detail": 150,
-      "measure_unit": "gr."
-    },
+    "content_detail": 150,
+    "measure_unit": "gr",
     "brand": "GRIEGO",
     "category": "LACTEOS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "2247536589V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 2247536589,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Mani Salado Marco Polo Variedades 150g",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "7804133005030",
-    "sku": "6659",
-    "sap": "302674",
-    "short_name": "Huevos Grande Blanco 12 un.",
+    "ean": 7,
+    "sku_sap": 302674,
+    "sku_vtex": 6659,
+    "short_name": "Huevos Grande Blanco 12 un",
     "long_name": "Huevo Grande Blanco 12 Un Cintazul",
-    "content": {
-      "content_detail": 1,
-      "measure_unit": "un."
-    },
+    "content_detail": 1,
+    "measure_unit": "un",
     "brand": "CINTAZUL",
     "category": "LACTEOS",
     "proxy_duration": "No Perecible",
     "pack": [
-      "12"
+      12
     ],
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802215108174",
-    "sku": "3644",
-    "sap": "1083961",
+    "ean": 7,
+    "sku_sap": 1083961,
+    "sku_vtex": 3644,
     "short_name": "Chocolate Rolls Nuts 150 g",
     "long_name": "Chocolate Costa Rolls Nuts 150 Gr",
-    "content": {
-      "content_detail": 150,
-      "measure_unit": "gr."
-    },
+    "content_detail": 150,
+    "measure_unit": "gr",
     "brand": "COSTA",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802900003296",
-    "sku": "120204",
-    "sap": "1787599006",
+    "ean": 7,
+    "sku_sap": 1787599006,
+    "sku_vtex": 120204,
     "short_name": "Yogurt Protein con Frutos Secos 150gr",
     "long_name": "Yog Protein+Tro Soprole 155gr, Frut Sec",
-    "content": {
-      "content_detail": 155,
-      "measure_unit": "gr."
-    },
+    "content_detail": 155,
+    "measure_unit": "gr",
     "brand": "SOPROLE",
     "category": "LACTEOS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7613032443191",
-    "sku": "4083",
-    "sap": "990069",
+    "ean": 7,
+    "sku_sap": 990069,
+    "sku_vtex": 4083,
     "short_name": "Galletas de Vino 155 g",
     "long_name": "Galleta Nestle Mckay Vino 155gr",
-    "content": {
-      "content_detail": 155,
-      "measure_unit": "gr."
-    },
+    "content_detail": 155,
+    "measure_unit": "gr",
     "brand": "MC KAY",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "5252131123V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 5252131123,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Atún Lomitos Variedades 160 g",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "5859935088V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 5859935088,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Jugo Vivo 100% Fruta Variedades 190 ml",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "7648109141V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 7648109141,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Néctar Vivo Variedades 190 cc",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "5393065232V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 5393065232,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Panini Deli Market Variedades",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": null,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Pasta Salad Tomate Pollo Palta Espirales",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802575353085",
-    "sku": "16401",
-    "sap": "1220663",
+    "ean": 7,
+    "sku_sap": 1220663,
+    "sku_vtex": 16401,
     "short_name": "Salsa de Tomate Natural 200 Grs",
     "long_name": "Salsa Tomate Pomarola Casera 200gr",
-    "content": {
-      "content_detail": 200,
-      "measure_unit": "gr."
-    },
+    "content_detail": 200,
+    "measure_unit": "gr",
     "brand": "POMAROLA",
     "category": "ALMACEN",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7803403000331",
-    "sku": "72520",
-    "sap": "1756707",
+    "ean": 7,
+    "sku_sap": 1756707,
+    "sku_vtex": 72520,
     "short_name": "Rapiditas Clásicas 200 g",
     "long_name": "Tortillas Rapiditas Ideal 200 Gr",
-    "content": {
-      "content_detail": 200,
-      "measure_unit": "gr."
-    },
+    "content_detail": 200,
+    "measure_unit": "gr",
     "brand": "IDEAL",
     "category": "PASTAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": null,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Crear Croissant Jamon Queso 125g Daily Fresh",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": null,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Queso Rikesa 200gr",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7750168001694",
-    "sku": "No Encontrado",
-    "sap": "481078",
+    "ean": 7,
+    "sku_sap": 481078,
+    "sku_vtex": null,
     "short_name": "Club Social Integral 9 Paquetes",
     "long_name": "Galleta Club Social Integral 234 Gr",
-    "content": {
-      "content_detail": 234,
-      "measure_unit": "gr."
-    },
+    "content_detail": 234,
+    "measure_unit": "gr",
     "brand": "CLUB SOCIAL",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
     "pack": [
-      "9"
+      9
     ],
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802351241018",
-    "sku": "1543",
-    "sap": "1255448",
+    "ean": 7,
+    "sku_sap": 1255448,
+    "sku_vtex": 1543,
     "short_name": "Aji Pebre 240 g",
     "long_name": "Aji Pebre Don Juan Pet 240 Gr",
-    "content": {
-      "content_detail": 240,
-      "measure_unit": "gr."
-    },
+    "content_detail": 240,
+    "measure_unit": "gr",
     "brand": "DON JUAN",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7804646450099",
-    "sku": "19513",
-    "sap": "1672569",
+    "ean": 7,
+    "sku_sap": 1672569,
+    "sku_vtex": 19513,
     "short_name": "Galleta Mizos Chocolate Naranja 20gr",
     "long_name": "Galleta Arroz Choc Naranja Mizos 25 Gr",
-    "content": {
-      "content_detail": 25,
-      "measure_unit": "gr."
-    },
+    "content_detail": 25,
+    "measure_unit": "gr",
     "brand": "MIZOS",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7794000744257",
-    "sku": "2634",
-    "sap": "271173",
+    "ean": 7,
+    "sku_sap": 271173,
+    "sku_vtex": 2634,
     "short_name": "Hellmann's Ketchup 250 g",
     "long_name": "Ketchup Hellmanns Doypack 250 G",
-    "content": {
-      "content_detail": 250,
-      "measure_unit": "gr."
-    },
+    "content_detail": 250,
+    "measure_unit": "gr",
     "brand": "HELLMANN`S",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802810031273",
-    "sku": "4366",
-    "sap": "498165002",
+    "ean": 7,
+    "sku_sap": 498165002,
+    "sku_vtex": 4366,
     "short_name": "Mermelada Frutilla 250gr",
     "long_name": "Mermelada Watt'S Light 250gr, Frutilla",
-    "content": {
-      "content_detail": 250,
-      "measure_unit": "gr."
-    },
+    "content_detail": 250,
+    "measure_unit": "gr",
     "brand": "WATT S",
     "category": "ALMACEN",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802900001339",
-    "sku": "10982",
-    "sap": "550822",
+    "ean": 7,
+    "sku_sap": 550822,
+    "sku_vtex": 10982,
     "short_name": "Queso Mantecoso Laminado 250gr",
     "long_name": "Queso Mantecoso Quilque Lam 250 Gr",
-    "content": {
-      "content_detail": 250,
-      "measure_unit": "gr."
-    },
+    "content_detail": 250,
+    "measure_unit": "gr",
     "brand": "QUILQUE",
     "category": "QUESERÍA",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7613030612339",
-    "sku": "82520",
-    "sap": "1815230",
-    "short_name": "Super8",
-    "long_name": "Oblea Super 8 29g",
-    "content": {
-      "content_detail": 29,
-      "measure_unit": "gr."
-    },
-    "brand": "NESTLE",
-    "category": "GALLETAS Y GOLOSINAS",
-    "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
-    "aisle": "Sin pasillo",
-    "generated_ean": false,
-    "autoshoppable_available": true
-  },
-  {
-    "ean": "7802000015199",
-    "sku": "97818",
-    "sap": "1860065",
+    "ean": 7,
+    "sku_sap": 1860065,
+    "sku_vtex": 97818,
     "short_name": "De Todito 290gr",
     "long_name": "Detodito Ii Evercrisp 290g",
-    "content": {
-      "content_detail": 290,
-      "measure_unit": "gr."
-    },
+    "content_detail": 290,
+    "measure_unit": "gr",
     "brand": "EVERCRISP",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "5071585427V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 5071585427,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Empanadas Variedades 2un",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
     "pack": [
-      "2"
+      2
     ],
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802920000749",
-    "sku": "10749",
-    "sap": "394383",
-    "short_name": "Quesillo 320gr",
-    "long_name": "Quesillo Colun Pote 320gr",
-    "content": {
-      "content_detail": 320,
-      "measure_unit": "gr."
-    },
-    "brand": "COLUN",
-    "category": "QUESERÍA",
-    "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
-    "aisle": "Sin pasillo",
-    "generated_ean": false,
-    "autoshoppable_available": true
-  },
-  {
-    "ean": "7803525000356",
-    "sku": "No Encontrado",
-    "sap": "1961088",
+    "ean": 7,
+    "sku_sap": 1961088,
+    "sku_vtex": null,
     "short_name": "Braunichoc Nutrabien",
     "long_name": "Nutra Bien Braunichoc 32g",
-    "content": {
-      "content_detail": 320,
-      "measure_unit": "gr."
-    },
+    "content_detail": 320,
+    "measure_unit": "gr",
     "brand": "IDEAL",
     "category": "PASTELERIA",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": null,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Ovomaltina 35gr",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801620340155",
-    "sku": "43842",
-    "sap": "263327",
+    "ean": 7,
+    "sku_sap": 263327,
+    "sku_vtex": 43842,
     "short_name": "Limón Soda 350ml",
-    "long_name": "Bebida Limon Soda La Ta 350 Cc",
-    "content": {
-      "content_detail": 350,
-      "measure_unit": "ml."
-    },
+    "long_name": "Bebida Limon Soda Lata 350 Cc",
+    "content_detail": 350,
+    "measure_unit": "ml",
     "brand": "LIMON SODA",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802800535583",
-    "sku": "14508",
-    "sap": "1567602",
-    "short_name": "Papas Fritas Crema Cebolla 37gr",
-    "long_name": "Papas Kryzpo Crema Cebolla 37 Gr",
-    "content": {
-      "content_detail": 40,
-      "measure_unit": "gr."
-    },
-    "brand": "KRYZPO",
-    "category": "COCKTAIL",
-    "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
-    "aisle": "Sin pasillo",
-    "generated_ean": false,
-    "autoshoppable_available": true
-  },
-  {
-    "ean": "2395857364",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 2395857364,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Wasil Plato Listo 380gr",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "6151278457V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 6151278457,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Galletas Digestive Sin Azúcar Variedades 39gr",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "6462085260V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 6462085260,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Granola Mango/Frambuesa",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "2001578862V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 2001578862,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Galletón Nutrabien Variedades",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "7908228801764",
-    "sku": "No Encontrado",
-    "sap": "1854953",
-    "short_name": "Gusanos Acidos 40 g",
-    "long_name": "Gomitas Pocket Gusanos Acidos Fini 40g",
-    "content": {
-      "content_detail": 40,
-      "measure_unit": "gr."
-    },
-    "brand": "FINI",
-    "category": "GALLETAS Y GOLOSINAS",
-    "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
-    "aisle": "Sin pasillo",
-    "generated_ean": false,
-    "autoshoppable_available": true
-  },
-  {
-    "ean": "2212265811V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 2212265811,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Galleton Casero Variedades 40gr",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802575004437",
-    "sku": "2327",
-    "sap": "267558",
+    "ean": 7,
+    "sku_sap": 267558,
+    "sku_vtex": 2327,
     "short_name": "Spaghetti 5 400 g",
     "long_name": "Spaghetti Nº5 Carozzi 400 G",
-    "content": {
-      "content_detail": 400,
-      "measure_unit": "gr."
-    },
+    "content_detail": 400,
+    "measure_unit": "gr",
     "brand": "CAROZZI",
     "category": "ALMACEN",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7891000248829",
-    "sku": "No Encontrado",
-    "sap": "0",
+    "ean": 7,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Kit Kat Dark 42gr",
     "long_name": "Chocolate Kit Kat Dark 41.5 Gr",
-    "content": {
-      "content_detail": 41,
-      "measure_unit": "gr."
-    },
+    "content_detail": 41,
+    "measure_unit": "gr",
     "brand": "NESTLE",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7891000248768",
-    "sku": "73757",
-    "sap": "1782456",
-    "short_name": "Kit Kat 42gr",
-    "long_name": "Chocolate Kit Kat 41.5 Gr",
-    "content": {
-      "content_detail": 41,
-      "measure_unit": "gr."
-    },
-    "brand": "NESTLE",
-    "category": "GALLETAS Y GOLOSINAS",
-    "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
-    "aisle": "Sin pasillo",
-    "generated_ean": false,
-    "autoshoppable_available": true
-  },
-  {
-    "ean": "",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": null,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Ensalada César 430gr",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": null,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Mayonesa Mavesa 445gr",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7896029052327",
-    "sku": "8640",
-    "sap": "1581823",
+    "ean": 7,
+    "sku_sap": 1581823,
+    "sku_vtex": 8640,
     "short_name": "Dentastix Razas Pequeñas 45 g",
     "long_name": "Pedigree Care Dentastix Sb 3 Sticks 45g",
-    "content": {
-      "content_detail": 45,
-      "measure_unit": "gr."
-    },
+    "content_detail": 45,
+    "measure_unit": "gr",
     "brand": "PEDIGREE",
     "category": "MASCOTAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "1224204676V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 1224204676,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Barra Wild Protein Variedades 45gr",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "9330702779V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 9330702779,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Alfajor Nutrabien Variedades",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": null,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Tuareg Coco 48gr",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802000013720",
-    "sku": "81468",
-    "sap": "1819824",
+    "ean": 7,
+    "sku_sap": 1819824,
+    "sku_vtex": 81468,
     "short_name": "Ramitas Queso 48gr",
     "long_name": "Ramitas Queso 48g",
-    "content": {
-      "content_detail": 48,
-      "measure_unit": "gr."
-    },
+    "content_detail": 48,
+    "measure_unit": "gr",
     "brand": "EVERCRISP",
     "category": "COCKTAIL",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801610591123",
-    "sku": "409",
-    "sap": "1544833",
-    "short_name": "Fanta Sin Azúcar 591 ml",
-    "long_name": "Fanta Zero Pet 591cc",
-    "content": {
-      "content_detail": 591,
-      "measure_unit": "ml."
-    },
-    "brand": "FANTA",
-    "category": "BOTILLERÍA/GASEOSAS",
-    "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
-    "aisle": "Sin pasillo",
-    "generated_ean": false,
-    "autoshoppable_available": true
-  },
-  {
-    "ean": "",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": null,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Maní Crocante Pettiz 50gr",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": null,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Brownie Sin Azúcar Nutrabien",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7801620016111",
-    "sku": "No Encontrado",
-    "sap": "670067",
+    "ean": 7,
+    "sku_sap": 670067,
+    "sku_vtex": null,
     "short_name": "Limón Soda 500ml",
     "long_name": "Bebida Limon Soda Bot Des 500cc",
-    "content": {
-      "content_detail": 500,
-      "measure_unit": "ml."
-    },
+    "content_detail": 500,
+    "measure_unit": "ml",
     "brand": "LIMON SODA",
     "category": "BOTILLERÍA/GASEOSAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": null,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Harina De Cachapas 500gr",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": null,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Margarina Mavesa 500gr",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "40000422068",
-    "sku": "55164",
-    "sap": "923966",
-    "short_name": "MilkyWay 52gr",
-    "long_name": "Milky Way Singles 52gr",
-    "content": {
-      "content_detail": 52,
-      "measure_unit": "gr."
-    },
-    "brand": "SNICKERS",
-    "category": "GALLETAS Y GOLOSINAS",
-    "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
-    "aisle": "Sin pasillo",
-    "generated_ean": false,
-    "autoshoppable_available": true
-  },
-  {
-    "ean": "40000424314",
-    "sku": "No Encontrado",
-    "sap": "268901",
+    "ean": 40000424314,
+    "sku_sap": 268901,
+    "sku_vtex": null,
     "short_name": "Snickers 53gr",
     "long_name": "*Snickers Singles 53gr",
-    "content": {
-      "content_detail": 53,
-      "measure_unit": "gr."
-    },
+    "content_detail": 53,
+    "measure_unit": "gr",
     "brand": "SNICKERS",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "855958006556",
-    "sku": "88594",
-    "sap": "1832238",
+    "ean": 8,
+    "sku_sap": 1832238,
+    "sku_vtex": 88594,
     "short_name": "Churu Tuna Recipe",
     "long_name": "Snack Gato Churu Atun 56g",
-    "content": {
-      "content_detail": 56,
-      "measure_unit": "gr."
-    },
+    "content_detail": 56,
+    "measure_unit": "gr",
     "brand": "INABA",
     "category": "MASCOTAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "855958006662",
-    "sku": "88596",
-    "sap": "1832240",
-    "short_name": "Churu Tuna with Salmon Recipe",
-    "long_name": "Snack Gato Churu Atun Y Salmon 56g",
-    "content": {
-      "content_detail": 56,
-      "measure_unit": "gr."
-    },
-    "brand": "INABA",
-    "category": "MASCOTAS",
-    "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
-    "aisle": "Sin pasillo",
-    "generated_ean": false,
-    "autoshoppable_available": true
-  },
-  {
-    "ean": "855958006570",
-    "sku": "88595",
-    "sap": "1832239",
+    "ean": 8,
+    "sku_sap": 1832239,
+    "sku_vtex": 88595,
     "short_name": "Churu Chicken Recipe",
     "long_name": "Snack Gato Churu Pollo 56g",
-    "content": {
-      "content_detail": 56,
-      "measure_unit": "gr."
-    },
+    "content_detail": 56,
+    "measure_unit": "gr",
     "brand": "INABA",
     "category": "MASCOTAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "9943781937V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 9943781937,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Powerade Bebidas Isotónicas Variedades 600ml",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "7803525999544",
-    "sku": "No Encontrado",
-    "sap": "1365091",
+    "ean": 7,
+    "sku_sap": 1365091,
+    "sku_vtex": null,
     "short_name": "Brownie Nutrabien",
     "long_name": "*Brownie Chip Nutrabien62grs",
-    "content": {
-      "content_detail": 62,
-      "measure_unit": "gr."
-    },
+    "content_detail": 62,
+    "measure_unit": "gr",
     "brand": "NUTRA BIEN",
     "category": "PASTELERIA",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "41789001833",
-    "sku": "15434",
-    "sap": "265532",
+    "ean": 41789001833,
+    "sku_sap": 265532,
+    "sku_vtex": 15434,
     "short_name": "Maruchan Queso 64gr",
     "long_name": "Comida Inst Maruchan Queso 64gr",
-    "content": {
-      "content_detail": 64,
-      "measure_unit": "gr."
-    },
+    "content_detail": 64,
+    "measure_unit": "gr",
     "brand": "MARUCHAN",
     "category": "ALMACEN",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7891000098240",
-    "sku": "8627",
-    "sap": "1540137",
+    "ean": 7,
+    "sku_sap": 1540137,
+    "sku_vtex": 8627,
     "short_name": "Doguitos Tira de Asado 65g",
     "long_name": "Snack Perro Doguitos Tira De Asado 65g",
-    "content": {
-      "content_detail": 65,
-      "measure_unit": "gr."
-    },
+    "content_detail": 65,
+    "measure_unit": "gr",
     "brand": "DOGUITOS",
     "category": "MASCOTAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7803525999704",
-    "sku": "22965",
-    "sap": "1581640",
+    "ean": 7,
+    "sku_sap": 1581640,
+    "sku_vtex": 22965,
     "short_name": "Queque Marmol Nutrabien",
     "long_name": "Queque Nutrabien Famil Marmol 250 Grs.",
-    "content": {
-      "content_detail": 250,
-      "measure_unit": "gr."
-    },
+    "content_detail": 250,
+    "measure_unit": "gr",
     "brand": "NUTRA BIEN",
     "category": "PASTELERIA",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7803403003257",
-    "sku": "126101",
-    "sap": "1960059",
+    "ean": 7,
+    "sku_sap": 1960059,
+    "sku_vtex": 126101,
     "short_name": "Pan Blanco XL Familiar 740 g",
     "long_name": "Pan Blanco Xl 740g Ideal",
-    "content": {
-      "content_detail": 740,
-      "measure_unit": "gr."
-    },
+    "content_detail": 740,
+    "measure_unit": "gr",
     "brand": "IDEAL",
     "category": "PANIFICADOS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": null,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Dentastix Razas Medianas 77,1 g",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7441008154617",
-    "sku": "10209",
-    "sap": "1243967",
+    "ean": 7,
+    "sku_sap": 1243967,
+    "sku_vtex": 10209,
     "short_name": "Tampones Súper 8un",
     "long_name": "Tampon Kotex C/Aplicador Super 8un",
-    "content": {
-      "content_detail": 8,
-      "measure_unit": "un."
-    },
+    "content_detail": 8,
+    "measure_unit": "un",
     "brand": "KOTEX",
     "category": "PERFUMERÍA",
     "proxy_duration": "No Perecible",
     "pack": [
-      "8"
+      8
     ],
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "1715732299V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 1715732299,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Fruits & Nuts Variedades",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802900401016",
-    "sku": "6973",
-    "sap": "891085001",
+    "ean": 7,
+    "sku_sap": 891085001,
+    "sku_vtex": 6973,
     "short_name": "Manjarate",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802215505027",
-    "sku": "3949",
-    "sap": "269339",
+    "ean": 7,
+    "sku_sap": 269339,
+    "sku_vtex": 3949,
     "short_name": "Galletas Obsesión 85gr",
     "long_name": "Galleta Obsesion Costa 85 G",
-    "content": {
-      "content_detail": 85,
-      "measure_unit": "gr."
-    },
+    "content_detail": 85,
+    "measure_unit": "gr",
     "brand": "COSTA",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7802215511011",
-    "sku": "2613",
-    "sap": "270939",
+    "ean": 7,
+    "sku_sap": 270939,
+    "sku_vtex": 2613,
     "short_name": "Crackelet 85 g",
     "long_name": "Galleta Costa Crackelet 85 G",
-    "content": {
-      "content_detail": 85,
-      "measure_unit": "gr."
-    },
+    "content_detail": 85,
+    "measure_unit": "gr",
     "brand": "COSTA",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "1656952917V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 1656952917,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Felix Classic Variedades",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "4575061715V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 4575061715,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Compota Vivo Variedades 90gr",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "7613287103529",
-    "sku": "122558",
-    "sap": "1950912",
+    "ean": 7,
+    "sku_sap": 1950912,
+    "sku_vtex": 122558,
     "short_name": "Chocolate Sahne-Nuss 90gr Barra",
     "long_name": "Chocolate Barra Sahne Nuss 90gr Cl",
-    "content": {
-      "content_detail": 90,
-      "measure_unit": "gr."
-    },
+    "content_detail": 90,
+    "measure_unit": "gr",
     "brand": "NESTLE",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "40000464105",
-    "sku": "3735",
-    "sap": "1337111",
+    "ean": 40000464105,
+    "sku_sap": 1337111,
+    "sku_vtex": 3735,
     "short_name": "Twix 93gr",
     "long_name": "Chocolate Twix Funsize 6-Pack 93gr",
-    "content": {
-      "content_detail": 93,
-      "measure_unit": "gr."
-    },
+    "content_detail": 93,
+    "measure_unit": "gr",
     "brand": "TWIXS",
     "category": "GALLETAS Y GOLOSINAS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
     "generated_ean": false,
     "autoshoppable_available": true
   },
   {
-    "ean": "7080939509V00",
-    "sku": "No Encontrado",
-    "sap": "No Encontado",
+    "ean": 7080939509,
+    "sku_sap": null,
+    "sku_vtex": null,
     "short_name": "Flan Colun Variedades",
     "long_name": "No Encontrado",
-    "content": {
-      "content_detail": 0,
-      "measure_unit": "un."
-    },
+    "content_detail": 0,
+    "measure_unit": "un",
     "brand": "No Encontrado",
     "category": "sin categoría",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
+    "generated_ean": true,
     "autoshoppable_available": true
   },
   {
-    "ean": "7613036927420",
-    "sku": "85002",
-    "sap": "1840616001",
+    "ean": 7,
+    "sku_sap": 1840616001,
+    "sku_vtex": 85002,
     "short_name": "Nescafé Capuccino 330ml",
     "long_name": "Beb Lactea Nescafe 330ml, Capuccino",
-    "content": {
-      "content_detail": 330,
-      "measure_unit": "ml."
-    },
+    "content_detail": 330,
+    "measure_unit": "ml",
     "brand": "NESCAFE",
     "category": "LACTEOS",
     "proxy_duration": "No Perecible",
-    "pack": [
-      "false"
-    ],
+    "pack": null,
     "aisle": "Sin pasillo",
-    "generated_ean": false,
-    "autoshoppable_available": true
-  },
-  {
-    "ean": "",
-    "sku": "",
-    "sap": "",
-    "short_name": "",
-    "long_name": "No Encontrado",
-    "content": {
-      "content_detail": null,
-      "measure_unit": ""
-    },
-    "brand": "",
-    "category": "",
-    "proxy_duration": "",
-    "pack": [
-      ""
-    ],
-    "aisle": "",
-    "generated_ean": false,
-    "autoshoppable_available": true
-  },
-  {
-    "ean": "",
-    "sku": "",
-    "sap": "",
-    "short_name": "",
-    "long_name": "No Encontrado",
-    "content": {
-      "content_detail": null,
-      "measure_unit": ""
-    },
-    "brand": "",
-    "category": "",
-    "proxy_duration": "",
-    "pack": [
-      ""
-    ],
-    "aisle": "",
     "generated_ean": false,
     "autoshoppable_available": true
   }
